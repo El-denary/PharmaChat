@@ -1,0 +1,3316 @@
+[
+  {
+    "drug_name": "Metformin",
+    "generic_name": "metformin hydrochloride",
+    "drug_class": "Biguanide (oral antidiabetic; non-sulfonylurea)",
+    "uses": [
+      "Treatment of type 2 diabetes mellitus to control high blood sugar, together with diet and exercise",
+      "Used alone or in combination with other diabetes medicines, including insulin"
+    ],
+    "indications": [
+      "Type 2 diabetes mellitus (adjunct to diet and exercise to improve glycemic control)",
+      "Off-label per Drugs.com treatment guides: polycystic ovary syndrome (PCOS) and insulin resistance"
+    ],
+    "common_side_effects": [
+      "Diarrhea",
+      "Nausea",
+      "Upset stomach / stomach discomfort",
+      "Vomiting",
+      "Gas (flatulence)",
+      "Indigestion",
+      "Constipation",
+      "Metallic or altered taste",
+      "Headache",
+      "Weakness or lack of energy",
+      "Muscle pain",
+      "Flushing of the skin",
+      "Low blood sugar (mainly when combined with insulin or sulfonylureas)"
+    ],
+    "serious_side_effects": [
+      "Lactic acidosis (rare, life-threatening): unusual muscle pain, trouble breathing, stomach pain, dizziness, feeling cold, slow or irregular heartbeat, severe weakness or tiredness",
+      "Severe hypoglycemia (low blood sugar)",
+      "Allergic reaction: hives, difficulty breathing, swelling of face, lips, tongue, or throat",
+      "Chest pain",
+      "Vitamin B12 deficiency with long-term use"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Nausea, vomiting, or stomach pain",
+        "possible_relation_to_drug": "Common gastrointestinal side effects, especially when starting; taking with food helps. However, when paired with unusual muscle pain, weakness, trouble breathing, or feeling cold, they can be early signs of lactic acidosis.",
+        "recommended_action": "Mild GI upset at the start is common; take with meals. If symptoms are severe, persistent, or occur with muscle pain, weakness, difficulty breathing, or feeling cold, stop and seek emergency care."
+      },
+      {
+        "symptom": "Dizziness, lightheadedness, shakiness, sweating, or confusion",
+        "possible_relation_to_drug": "May indicate low blood sugar (hypoglycemia), more likely when metformin is combined with insulin or a sulfonylurea.",
+        "recommended_action": "Treat with a fast-acting sugar source; contact a healthcare professional if hypoglycemia is severe or recurrent. Do not change the dose without medical advice."
+      },
+      {
+        "symptom": "Diarrhea",
+        "possible_relation_to_drug": "A common side effect, particularly at the start of treatment or after a dose increase.",
+        "recommended_action": "Often improves over time and when taken with food; contact a healthcare professional if severe, persistent, or causing dehydration."
+      }
+    ],
+    "warnings": [
+      "Boxed warning: risk of lactic acidosis, a rare but potentially fatal build-up of lactic acid; risk rises with kidney impairment, age 65+, contrast imaging, surgery, heart failure, liver impairment, and excessive alcohol",
+      "Temporarily stop before iodinated-contrast imaging and before surgery; restart only when kidney function is confirmed stable (about 48 hours after)",
+      "Not used to treat type 1 diabetes or diabetic ketoacidosis",
+      "Kidney function (eGFR) must be checked before and during treatment",
+      "May lower vitamin B12 levels with long-term use; periodic monitoring advised",
+      "Avoid excessive alcohol; it increases the risk of lactic acidosis and low blood sugar",
+      "May restore ovulation and increase the chance of unintended pregnancy in premenopausal women"
+    ],
+    "contraindications": [
+      "Severe renal impairment (eGFR less than 30 mL/min/1.73 m2)",
+      "Acute or chronic metabolic acidosis, including diabetic ketoacidosis",
+      "Known hypersensitivity to metformin"
+    ],
+    "dosage_forms": [
+      "Immediate-release oral tablet",
+      "Extended-release (long-acting) oral tablet",
+      "Oral solution / extended-release oral suspension (liquid)"
+    ],
+    "available_strengths": [
+      "500 mg",
+      "625 mg",
+      "750 mg",
+      "850 mg",
+      "1000 mg",
+      "500 mg/5 mL (oral solution)"
+    ],
+    "usual_adult_dose": "Immediate-release: start 500 mg twice daily or 850 mg once daily; usual maintenance about 2000 mg/day in divided doses; maximum 2550 mg/day. Extended-release: start 500-1000 mg once daily; maximum 2000 mg/day.",
+    "usual_adult_frequency": "Immediate-release: 2 to 3 times daily with meals. Extended-release: once daily with the evening meal.",
+    "doses_per_day": null,
+    "meal_relation": "Take with meals (with food) to reduce stomach upset; the extended-release form is taken with the evening meal",
+    "administration_instructions": "Take by mouth with food. Swallow extended-release tablets whole - do not split, crush, or chew. Shake the oral suspension before measuring and use a proper dosing device, not a kitchen spoon. Take at the same time each day; continue even when feeling well and do not stop without medical advice.",
+    "missed_dose_instructions": "Take the missed dose as soon as you remember. If it is almost time for the next dose, skip the missed dose and continue the regular schedule. Do not take a double dose to make up for a missed one.",
+    "storage_instructions": "Store at room temperature in the original, tightly closed container, away from light, excess heat, and moisture (not in the bathroom). Keep out of reach of children. Extended-release oral suspension: store at 20-25 C (68-77 F) and discard reconstituted suspension after 100 days.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Iodinated contrast dye (used in some X-ray/CT scans)",
+        "severity": "high",
+        "description": "Iodinated contrast can acutely reduce kidney function and decrease metformin clearance.",
+        "clinical_effect": "Increased risk of metformin-associated lactic acidosis.",
+        "recommended_gap_hours": 48
+      },
+      {
+        "interacting_drug": "Carbonic anhydrase inhibitors (topiramate, acetazolamide, dichlorphenamide, methazolamide, zonisamide)",
+        "severity": "high",
+        "description": "These agents can cause metabolic acidosis, which adds to metformin's lactic acidosis risk.",
+        "clinical_effect": "Increased risk of lactic acidosis.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Insulin and insulin secretagogues (e.g., sulfonylureas such as glipizide, glyburide)",
+        "severity": "moderate",
+        "description": "Additive blood-sugar-lowering effect when combined with metformin.",
+        "clinical_effect": "Increased risk of hypoglycemia; a lower dose of insulin or secretagogue may be needed.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "Excessive or binge alcohol use increases the risk of lactic acidosis and can cause low blood sugar; limit alcohol and ask your doctor what amount is safe."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Severe kidney disease / renal impairment",
+        "description": "Contraindicated at eGFR <30 mL/min/1.73 m2; reduced clearance raises lactic acidosis risk."
+      },
+      {
+        "disease_or_condition": "Metabolic acidosis / diabetic ketoacidosis",
+        "description": "Contraindicated; metformin can worsen the acid-base disturbance."
+      },
+      {
+        "disease_or_condition": "Heart failure / hypoxic states",
+        "description": "Increase the risk of lactic acidosis."
+      },
+      {
+        "disease_or_condition": "Liver impairment / chronic alcoholism",
+        "description": "Not recommended; increases lactic acidosis risk."
+      }
+    ],
+    "monitoring_requirements": [
+      "Kidney function (eGFR) at baseline and at least annually (more often if at risk)",
+      "Blood glucose and HbA1c for glycemic control",
+      "Periodic vitamin B12 levels, especially with peripheral neuropathy or anemia",
+      "Hematologic parameters annually"
+    ],
+    "patient_counseling_points": [
+      "Take with meals to reduce stomach upset; GI symptoms often ease over time.",
+      "Learn the symptoms of lactic acidosis (muscle pain, trouble breathing, unusual tiredness, feeling cold) and seek emergency care if they occur.",
+      "Tell your care team before any surgery or imaging with contrast dye - metformin may need to be paused.",
+      "Continue taking even if you feel well; do not stop without consulting your doctor.",
+      "Limit alcohol.",
+      "Empty tablet shells from the extended-release form may appear in the stool; this is normal."
+    ],
+    "caregiver_notes": "Help the person take metformin with meals at consistent times, watch for warning signs of lactic acidosis and low blood sugar, keep lab appointments for kidney function and vitamin B12, and make sure clinicians are told before any surgery or contrast imaging. Do not adjust the dose without medical advice.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "MedlinePlus (NLM)",
+        "url": "https://medlineplus.gov/druginfo/meds/a696005.html"
+      },
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/metformin.html"
+      },
+      {
+        "source_name": "Drugs.com - Dosage",
+        "url": "https://www.drugs.com/dosage/metformin.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Lisinopril",
+    "generic_name": "lisinopril",
+    "drug_class": "Angiotensin-converting enzyme (ACE) inhibitor",
+    "uses": [
+      "Treatment of high blood pressure (hypertension) in adults and children 6 years and older, alone or with other medicines",
+      "Treatment of heart failure (in combination with other medicines)",
+      "Improving survival after a heart attack (acute myocardial infarction)"
+    ],
+    "indications": [
+      "Hypertension",
+      "Congestive heart failure (adjunctive therapy)",
+      "Acute myocardial infarction (to reduce mortality)",
+      "Off-label per Drugs.com: diabetic nephropathy (not an FDA-approved indication)"
+    ],
+    "common_side_effects": [
+      "Dry, persistent cough",
+      "Dizziness",
+      "Headache",
+      "Excessive tiredness / weakness",
+      "Low blood pressure",
+      "Nausea",
+      "Diarrhea",
+      "Sneezing or runny nose",
+      "Decrease in sexual ability",
+      "Rash",
+      "Chest pain"
+    ],
+    "serious_side_effects": [
+      "Angioedema: swelling of the face, throat, tongue, lips, eyes, hands, feet, ankles, or lower legs; hoarseness; difficulty breathing or swallowing (medical emergency)",
+      "High blood potassium (hyperkalemia): nausea, weakness, tingling, chest pain, irregular heartbeat, loss of movement",
+      "Low white blood cell count: fever, sore throat, chills, mouth or skin sores, signs of infection",
+      "Kidney problems: swelling, urinating less, tiredness, shortness of breath",
+      "Liver problems / jaundice: yellowing of the skin or eyes, dark urine, upper-right stomach pain",
+      "Severe low blood pressure: lightheadedness, fainting",
+      "Allergic reaction: severe stomach pain, hives, difficulty breathing"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Dry, tickly, persistent cough",
+        "possible_relation_to_drug": "A common and well-recognized side effect of ACE inhibitors like lisinopril; usually not dangerous but can be bothersome.",
+        "recommended_action": "Not an emergency; tell your doctor if it is troublesome, as safe alternatives (e.g., ARBs) may be considered. Do not stop the medicine on your own."
+      },
+      {
+        "symptom": "Swelling of the face, lips, tongue, or throat, or difficulty breathing/swallowing",
+        "possible_relation_to_drug": "May indicate angioedema, a serious allergic-type reaction to ACE inhibitors.",
+        "recommended_action": "Seek emergency medical care immediately and stop the medication."
+      },
+      {
+        "symptom": "Dizziness or lightheadedness, especially on standing up",
+        "possible_relation_to_drug": "May reflect low blood pressure from lisinopril, more likely with dehydration, diuretics, or the first doses.",
+        "recommended_action": "Rise slowly, stay adequately hydrated; contact a healthcare professional if you faint or symptoms persist. Do not change the dose without advice."
+      }
+    ],
+    "warnings": [
+      "Boxed warning: fetal toxicity - can cause injury or death to a developing fetus; stop immediately and tell your doctor if pregnancy occurs",
+      "Risk of angioedema (serious swelling); higher in people with a prior history of angioedema",
+      "Do not take within 36 hours before or after a medicine containing sacubitril (e.g., Entresto) due to angioedema risk",
+      "If you have diabetes, do not use with aliskiren-containing medicines",
+      "Can raise blood potassium; avoid potassium supplements and potassium-containing salt substitutes unless directed",
+      "Dehydration (from vomiting, diarrhea, heavy sweating) can cause a large drop in blood pressure, electrolyte imbalance, or kidney failure",
+      "Tell surgeons/dentists you take lisinopril before procedures"
+    ],
+    "contraindications": [
+      "Pregnancy",
+      "History of angioedema (including ACE-inhibitor-associated or hereditary/idiopathic angioedema)",
+      "Hypersensitivity to lisinopril or other ACE inhibitors",
+      "Concomitant use with sacubitril (within 36 hours)",
+      "Concomitant use with aliskiren in patients with diabetes"
+    ],
+    "dosage_forms": [
+      "Oral tablet",
+      "Oral solution (liquid)"
+    ],
+    "available_strengths": [
+      "2.5 mg",
+      "5 mg",
+      "10 mg",
+      "20 mg",
+      "30 mg",
+      "40 mg",
+      "1 mg/mL (oral solution)"
+    ],
+    "usual_adult_dose": "Hypertension: start 10 mg once daily (5 mg if on a diuretic); maintenance 20-40 mg once daily; maximum 80 mg/day. Heart failure: start 2.5-5 mg once daily, titrate as tolerated, maximum 40 mg/day. After heart attack: 5 mg, then per protocol, maintenance 10 mg once daily.",
+    "usual_adult_frequency": "Once daily, at the same time each day",
+    "doses_per_day": 1,
+    "meal_relation": "May be taken with or without food; take at the same time each day",
+    "administration_instructions": "Take by mouth once a day, with or without food, at the same time each day. Measure the oral solution with the supplied device, not a kitchen spoon. Continue taking even if you feel well; do not stop without talking to your doctor. Blood pressure and blood tests will be monitored.",
+    "missed_dose_instructions": "Take the missed dose as soon as you remember. If it is almost time for the next dose, skip the missed dose and continue on the regular schedule. Do not take a double dose to make up for a missed one.",
+    "storage_instructions": "Store tightly closed at room temperature, away from excess heat and moisture (not in the bathroom). Do not freeze. Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "NSAIDs (ibuprofen, naproxen, aspirin, celecoxib, diclofenac, indomethacin, meloxicam, and others)",
+        "severity": "moderate",
+        "description": "NSAIDs can blunt lisinopril's blood-pressure-lowering effect and, combined with an ACE inhibitor (especially with a diuretic), can impair kidney function and raise potassium.",
+        "clinical_effect": "Reduced blood pressure control and increased risk of kidney injury and hyperkalemia.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Potassium-sparing diuretics, potassium supplements, or potassium-containing salt substitutes (spironolactone, triamterene, amiloride)",
+        "severity": "high",
+        "description": "Additive potassium retention with an ACE inhibitor.",
+        "clinical_effect": "Risk of dangerously high blood potassium (hyperkalemia).",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Sacubitril (e.g., Entresto)",
+        "severity": "high",
+        "description": "Combined ACE inhibition and neprilysin inhibition markedly increase angioedema risk; the two must be separated by at least 36 hours.",
+        "clinical_effect": "Serious risk of angioedema; combination is contraindicated.",
+        "recommended_gap_hours": 36
+      },
+      {
+        "interacting_drug": "Aliskiren (in patients with diabetes or kidney disease)",
+        "severity": "high",
+        "description": "Dual blockade of the renin-angiotensin system.",
+        "clinical_effect": "Increased risk of kidney impairment, hyperkalemia, and low blood pressure; avoid the combination.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "mTOR inhibitors (sirolimus, everolimus, temsirolimus)",
+        "severity": "moderate",
+        "description": "Can increase the risk of angioedema when combined with ACE inhibitors.",
+        "clinical_effect": "Increased angioedema risk.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Potassium-containing salt substitutes and high-potassium supplements",
+        "description": "Can add to the potassium-raising effect of lisinopril; do not use unless your doctor directs."
+      },
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "May add to the blood-pressure-lowering effect and increase dizziness; use alcohol only in moderation."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Kidney disease / renal impairment",
+        "description": "Requires dose adjustment and monitoring; lisinopril can worsen kidney function, especially with dehydration or NSAIDs."
+      },
+      {
+        "disease_or_condition": "History of angioedema",
+        "description": "Contraindicated; high risk of recurrent serious swelling."
+      },
+      {
+        "disease_or_condition": "Diabetes",
+        "description": "Do not combine with aliskiren; monitor potassium and kidney function."
+      },
+      {
+        "disease_or_condition": "Volume or salt depletion / low blood pressure",
+        "description": "Increased risk of symptomatic hypotension, especially at the first dose; correct before starting."
+      },
+      {
+        "disease_or_condition": "Liver disease",
+        "description": "Stop and seek care if jaundice or marked liver-enzyme elevations occur."
+      }
+    ],
+    "monitoring_requirements": [
+      "Blood pressure regularly",
+      "Kidney function (serum creatinine) and serum potassium, especially after starting or dose changes",
+      "White blood cell count in selected patients (e.g., collagen vascular disease or kidney impairment)",
+      "Liver enzymes if jaundice or hepatic symptoms occur"
+    ],
+    "patient_counseling_points": [
+      "A dry cough is common; it is usually harmless but tell your doctor if it bothers you.",
+      "Seek emergency help for any swelling of the face, lips, tongue, or throat, or trouble breathing.",
+      "Stand up slowly to avoid dizziness, and stay hydrated; report fainting.",
+      "Do not use potassium supplements or salt substitutes unless your doctor approves.",
+      "Do not stop lisinopril suddenly; high blood pressure often has no symptoms.",
+      "Tell your doctor right away if you become or plan to become pregnant."
+    ],
+    "caregiver_notes": "Help ensure once-daily dosing at a consistent time, watch for warning signs of angioedema (facial or throat swelling, trouble breathing) and act as an emergency, monitor for dizziness/fainting and dehydration, avoid potassium salt substitutes, and keep blood-pressure and lab follow-up appointments. Report any pregnancy immediately. Do not change the dose without medical advice.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "MedlinePlus (NLM)",
+        "url": "https://medlineplus.gov/druginfo/meds/a692051.html"
+      },
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/lisinopril.html"
+      },
+      {
+        "source_name": "Drugs.com - Dosage",
+        "url": "https://www.drugs.com/dosage/lisinopril.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Atorvastatin",
+    "generic_name": "atorvastatin calcium",
+    "drug_class": "HMG-CoA reductase inhibitor (statin)",
+    "uses": [
+      "Lowers LDL ('bad') cholesterol and triglycerides and raises HDL ('good') cholesterol",
+      "Reduces the risk of heart attack, stroke, angina, and the need for heart procedures in people with or at risk of heart disease",
+      "Used together with diet, exercise, and weight control"
+    ],
+    "indications": [
+      "Primary hyperlipidemia (high cholesterol)",
+      "Heterozygous familial hypercholesterolemia in adults and children 10 years and older",
+      "Homozygous familial hypercholesterolemia (as an adjunct to other LDL-lowering therapy)",
+      "Primary dysbetalipoproteinemia and hypertriglyceridemia",
+      "Cardiovascular risk reduction in adults with clinical coronary heart disease or multiple risk factors (including type 2 diabetes)"
+    ],
+    "common_side_effects": [
+      "Muscle, joint, back, or limb pain",
+      "Muscle spasms",
+      "Upset stomach / nausea",
+      "Diarrhea",
+      "Heartburn",
+      "Gas",
+      "Trouble sleeping",
+      "Stuffy or runny nose, sore throat (cold-like symptoms)",
+      "Urinary tract infection / painful urination",
+      "Forgetfulness, memory loss, or confusion (reported, usually reversible)"
+    ],
+    "serious_side_effects": [
+      "Myopathy / rhabdomyolysis: unexplained muscle pain, tenderness, or weakness, especially with fever, unusual tiredness, or dark urine (can lead to kidney failure)",
+      "Immune-mediated muscle weakness in hips, shoulders, neck, and back; trouble lifting arms or climbing",
+      "Liver problems: loss of appetite, upper-right stomach pain, dark urine, clay-colored stools, jaundice (yellowing of skin or eyes)",
+      "Kidney problems: swelling, urinating less, tiredness, shortness of breath",
+      "Increased blood sugar (increased thirst/urination, dry mouth, fruity breath)",
+      "Serious allergic or skin reaction: hives, trouble breathing, facial/throat swelling, blistering or peeling rash"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Unexplained muscle pain, tenderness, or weakness (especially with dark urine or fever)",
+        "possible_relation_to_drug": "May indicate statin-related myopathy or rhabdomyolysis, an uncommon but serious breakdown of muscle tissue that can harm the kidneys.",
+        "recommended_action": "Contact your doctor promptly; if severe or with dark urine and fever, seek urgent medical care. Do not stop on your own unless advised."
+      },
+      {
+        "symptom": "Yellowing of the skin or eyes, dark urine, or upper-right abdominal pain",
+        "possible_relation_to_drug": "May signal liver injury, an uncommon serious side effect of atorvastatin.",
+        "recommended_action": "Contact a healthcare professional; liver tests may be needed."
+      },
+      {
+        "symptom": "Forgetfulness, confusion, or memory loss",
+        "possible_relation_to_drug": "Has been reported with statins and is usually reversible after stopping.",
+        "recommended_action": "Discuss with your doctor; this is generally not an emergency, but do not change therapy without advice."
+      }
+    ],
+    "warnings": [
+      "Do not use if you have active liver disease or cirrhosis",
+      "Can cause muscle breakdown (rhabdomyolysis) leading to kidney failure; risk is higher in older adults and people with kidney disease, hypothyroidism, or certain interacting drugs",
+      "May harm a developing fetus; stop and call your doctor if you become pregnant",
+      "Do not breastfeed while taking atorvastatin",
+      "Drinking more than 2 alcoholic drinks daily increases the risk of liver damage",
+      "Limit grapefruit; avoid drinking more than 1.2 liters of grapefruit juice per day"
+    ],
+    "contraindications": [
+      "Active liver disease or cirrhosis",
+      "Known hypersensitivity to atorvastatin",
+      "Pregnancy",
+      "Breastfeeding"
+    ],
+    "dosage_forms": [
+      "Oral tablet",
+      "Oral suspension (liquid)"
+    ],
+    "available_strengths": [
+      "10 mg",
+      "20 mg",
+      "40 mg",
+      "80 mg",
+      "20 mg/5 mL (oral suspension)"
+    ],
+    "usual_adult_dose": "Start 10-20 mg once daily (40 mg once daily if greater than 45% LDL-C reduction is needed); usual range 10-80 mg once daily.",
+    "usual_adult_frequency": "Once daily, at any consistent time of day",
+    "doses_per_day": 1,
+    "meal_relation": "Tablet: with or without food. Oral suspension: on an empty stomach (at least 1 hour before or 2 hours after a meal). Avoid large amounts of grapefruit/grapefruit juice.",
+    "administration_instructions": "Take the tablet by mouth once daily, with or without food, at the same time each day. Take the oral suspension on an empty stomach; shake it and measure with the supplied device, not a kitchen spoon. Continue taking even if you feel well; do not stop or change the dose without your doctor's advice.",
+    "missed_dose_instructions": "Take the missed dose as soon as you remember. Skip it if it is almost time for the next dose (within about 12 hours). Never take two doses at once.",
+    "storage_instructions": "Store at room temperature in the original, tightly closed container, away from moisture, heat, and light (not in the bathroom). Keep out of reach of children. Discard any unused oral suspension 60 days after opening the bottle.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Strong CYP3A4 inhibitors (clarithromycin, erythromycin, itraconazole, ketoconazole, posaconazole, voriconazole, HIV/hepatitis C protease inhibitors)",
+        "severity": "high",
+        "description": "These raise atorvastatin blood levels by blocking its metabolism.",
+        "clinical_effect": "Increased risk of muscle toxicity (myopathy and rhabdomyolysis); dose limits or avoidance may be required.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Fibrates (gemfibrozil, fenofibrate) and niacin",
+        "severity": "moderate",
+        "description": "Combining other lipid-lowering agents with a statin adds muscle-related risk.",
+        "clinical_effect": "Increased risk of myopathy/rhabdomyolysis.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Cyclosporine and other organ-transplant rejection medicines",
+        "severity": "high",
+        "description": "Markedly increase atorvastatin exposure.",
+        "clinical_effect": "High risk of muscle toxicity; combination generally avoided or dose-limited.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Colchicine",
+        "severity": "moderate",
+        "description": "Additive muscle toxicity when combined with statins.",
+        "clinical_effect": "Increased risk of myopathy.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Rifampin",
+        "severity": "moderate",
+        "description": "Can lower atorvastatin levels (and timing of administration matters).",
+        "clinical_effect": "Reduced cholesterol-lowering effect.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Grapefruit / grapefruit juice",
+        "description": "Large amounts (more than ~1.2 liters/day of juice) raise atorvastatin levels and the risk of side effects; limit grapefruit products."
+      },
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "Regularly drinking more than 2 drinks per day increases the risk of liver damage."
+      },
+      {
+        "food_or_beverage": "High-fat, high-cholesterol foods",
+        "description": "Reduce the medicine's effectiveness; follow a cholesterol-lowering diet."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Liver disease / cirrhosis",
+        "description": "Contraindicated in active liver disease; statins can affect liver enzymes."
+      },
+      {
+        "disease_or_condition": "Kidney disease",
+        "description": "Higher risk of muscle breakdown (rhabdomyolysis)."
+      },
+      {
+        "disease_or_condition": "Hypothyroidism (underactive thyroid)",
+        "description": "Poorly controlled thyroid increases the risk of muscle toxicity."
+      },
+      {
+        "disease_or_condition": "Diabetes",
+        "description": "Statins may modestly raise blood sugar; benefits usually outweigh this risk."
+      }
+    ],
+    "monitoring_requirements": [
+      "Lipid panel (LDL-C, HDL-C, triglycerides, total cholesterol) about 4 weeks after starting or changing dose, then periodically",
+      "Liver enzymes at baseline and if symptoms of liver problems occur",
+      "Creatine kinase (CK) if unexplained muscle pain or weakness develops",
+      "Blood glucose/HbA1c, especially in people at risk of diabetes"
+    ],
+    "patient_counseling_points": [
+      "Report any unexplained muscle pain, tenderness, or weakness - especially with dark urine or fever - to your doctor.",
+      "Take it at the same time each day; it works whether taken morning or night.",
+      "Avoid large amounts of grapefruit and limit alcohol.",
+      "Keep taking it even if you feel well; cholesterol usually has no symptoms.",
+      "Follow a low-fat, low-cholesterol diet for full benefit.",
+      "Stop and call your doctor right away if you become pregnant."
+    ],
+    "caregiver_notes": "Support once-daily dosing at a consistent time, watch for and promptly report muscle pain/weakness (especially with dark urine), and signs of liver trouble such as jaundice. Discourage grapefruit and excess alcohol, encourage the cholesterol-lowering diet, and keep lipid and liver lab appointments. Do not change the dose without medical advice.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "MedlinePlus (NLM)",
+        "url": "https://medlineplus.gov/druginfo/meds/a600045.html"
+      },
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/atorvastatin.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Amlodipine",
+    "generic_name": "amlodipine besylate",
+    "drug_class": "Calcium channel blocker (dihydropyridine)",
+    "uses": [
+      "Treatment of high blood pressure (hypertension) in adults and children 6 years and older, alone or with other medicines",
+      "Treatment of certain types of angina (chest pain), including chronic stable and vasospastic angina",
+      "Coronary artery disease - to reduce the risk of hospitalization for angina and the need for a coronary procedure"
+    ],
+    "indications": [
+      "Hypertension",
+      "Chronic stable angina",
+      "Vasospastic (Prinzmetal/variant) angina",
+      "Coronary artery disease (in patients without heart failure or low ejection fraction)"
+    ],
+    "common_side_effects": [
+      "Swelling of the ankles, feet, or lower legs (peripheral edema)",
+      "Dizziness or lightheadedness",
+      "Drowsiness",
+      "Flushing (warmth or redness)",
+      "Excessive tiredness",
+      "Palpitations / irregular or pounding heartbeat",
+      "Nausea",
+      "Stomach pain",
+      "Muscle stiffness or tremors"
+    ],
+    "serious_side_effects": [
+      "Worsening chest pain or, rarely, a heart attack when first starting or increasing the dose (chest pain/pressure, pain spreading to jaw or shoulder, nausea, sweating)",
+      "Very low blood pressure or fainting",
+      "Rapid, pounding, or irregular heartbeat",
+      "Allergic reaction: hives, difficulty breathing, swelling of the face, lips, tongue, or throat"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Swelling of the ankles, feet, or lower legs",
+        "possible_relation_to_drug": "A common, dose-related side effect of amlodipine (peripheral edema) caused by its effect on small blood vessels; it does not usually respond to water pills (diuretics).",
+        "recommended_action": "Tell your doctor; they may adjust the dose or change the blood-pressure medicine. Not usually an emergency unless accompanied by breathlessness."
+      },
+      {
+        "symptom": "New or worsening chest pain, especially when starting or after a dose increase",
+        "possible_relation_to_drug": "Rarely, amlodipine can worsen angina or, very rarely, trigger a heart attack at the start of treatment or dose increase.",
+        "recommended_action": "Seek emergency medical attention for severe, ongoing chest pain, pressure spreading to the jaw/shoulder, sweating, or nausea."
+      },
+      {
+        "symptom": "Dizziness or lightheadedness",
+        "possible_relation_to_drug": "Often due to amlodipine lowering blood pressure, especially when standing up quickly.",
+        "recommended_action": "Rise slowly from sitting or lying; contact a healthcare professional if you feel faint or pass out."
+      }
+    ],
+    "warnings": [
+      "Chest pain (angina) may worsen, or rarely a heart attack may occur, when first starting amlodipine or when the dose is increased",
+      "Use caution with severe narrowing of the aortic heart valve (aortic stenosis) and in liver disease (lower starting doses may be needed)",
+      "Alcohol can further lower blood pressure and increase some side effects",
+      "Keep taking it even if you feel well; high blood pressure often has no symptoms",
+      "Rise slowly to avoid dizziness from low blood pressure"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to amlodipine"
+    ],
+    "dosage_forms": [
+      "Oral tablet",
+      "Oral solution (liquid)",
+      "Oral suspension (liquid)",
+      "Powder for oral solution"
+    ],
+    "available_strengths": [
+      "2.5 mg",
+      "5 mg",
+      "10 mg",
+      "1 mg/mL (oral solution)",
+      "1 mg/mL (oral suspension)",
+      "2.5 mg, 5 mg, 10 mg (single-dose powder for oral solution)"
+    ],
+    "usual_adult_dose": "Hypertension: start 5 mg once daily (2.5 mg in older, frail, or small adults and those with liver impairment); maximum 10 mg/day. Angina / coronary artery disease: 5-10 mg once daily; maximum 10 mg/day.",
+    "usual_adult_frequency": "Once daily, at the same time each day",
+    "doses_per_day": 1,
+    "meal_relation": "May be taken with or without food; take at the same time each day",
+    "administration_instructions": "Take by mouth once daily, with or without food, at a consistent time. Shake the oral suspension and measure liquid forms with the supplied device, not a kitchen spoon. The Sdamlo powder must be mixed with water and taken within 60 minutes. Continue taking even if you feel well; do not stop or change the dose without your doctor's advice.",
+    "missed_dose_instructions": "Take the missed dose as soon as you remember. If it is less than 12 hours until the next dose, skip the missed dose and continue your regular schedule. Do not take a double dose to make up for a missed one.",
+    "storage_instructions": "Store tablets and oral solution at room temperature away from light, excess heat, and moisture (not in the bathroom). Store the oral suspension in the refrigerator and do not freeze; protect it from light. Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Simvastatin (and lovastatin)",
+        "severity": "moderate",
+        "description": "Amlodipine and these statins are both processed by the CYP3A4 enzyme; amlodipine raises simvastatin blood levels.",
+        "clinical_effect": "Increased risk of statin muscle toxicity (myopathy/rhabdomyolysis); simvastatin is generally limited to a maximum of 20 mg/day when taken with amlodipine.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Strong CYP3A4 inhibitors (clarithromycin, itraconazole, ketoconazole, ritonavir, and similar)",
+        "severity": "moderate",
+        "description": "These reduce the breakdown of amlodipine, raising its blood levels.",
+        "clinical_effect": "Increased blood-pressure-lowering effect, dizziness, and swelling; closer monitoring may be needed.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Other blood-pressure-lowering medicines (other antihypertensives, nitrates)",
+        "severity": "moderate",
+        "description": "Additive lowering of blood pressure when combined with amlodipine.",
+        "clinical_effect": "Increased risk of low blood pressure, dizziness, or fainting.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Grapefruit / grapefruit juice",
+        "description": "Grapefruit inhibits the CYP3A4 enzyme that breaks down amlodipine and can modestly increase its levels; many clinicians advise limiting grapefruit."
+      },
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "Can further lower blood pressure and increase dizziness or other side effects."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Severe aortic stenosis",
+        "description": "Vasodilation may worsen symptoms; use with caution."
+      },
+      {
+        "disease_or_condition": "Heart failure",
+        "description": "Use with caution; tell your doctor if you have congestive heart failure."
+      },
+      {
+        "disease_or_condition": "Liver disease",
+        "description": "Amlodipine is cleared more slowly; lower starting doses are recommended."
+      },
+      {
+        "disease_or_condition": "Coronary artery disease",
+        "description": "Rarely, angina or a heart attack can worsen at the start of treatment or with dose increases."
+      }
+    ],
+    "monitoring_requirements": [
+      "Blood pressure, checked regularly",
+      "Heart rate and any chest-pain pattern",
+      "Watch for swelling (peripheral edema)",
+      "Liver function in patients with hepatic impairment"
+    ],
+    "patient_counseling_points": [
+      "Ankle/leg swelling is a common side effect; report it rather than treating it yourself.",
+      "Stand up slowly to reduce dizziness.",
+      "Keep taking it even if you feel well; blood pressure often has no symptoms.",
+      "Take it at the same time each day, with or without food.",
+      "Report any worsening or new chest pain, particularly soon after starting or increasing the dose.",
+      "Limit alcohol, which can lower your blood pressure further."
+    ],
+    "caregiver_notes": "Support once-daily dosing at a consistent time, watch for ankle/leg swelling and report it, help the person rise slowly to avoid dizziness, and treat any severe or new chest pain as an emergency. Keep blood-pressure follow-up appointments and do not change the dose without medical advice.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "MedlinePlus (NLM)",
+        "url": "https://medlineplus.gov/druginfo/meds/a692044.html"
+      },
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/amlodipine.html"
+      },
+      {
+        "source_name": "Drugs.com - Interaction report (amlodipine/simvastatin)",
+        "url": "https://www.drugs.com/drug-interactions/amlodipine-with-simvastatin-172-0-2067-0.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Omeprazole",
+    "generic_name": "omeprazole",
+    "drug_class": "Proton pump inhibitor (PPI)",
+    "uses": [
+      "Treatment of gastroesophageal reflux disease (GERD) and frequent heartburn",
+      "Healing of erosive esophagitis and prevention of further esophageal damage",
+      "Treatment of stomach (gastric) and duodenal ulcers, including those caused by H. pylori (used with antibiotics)",
+      "Treatment of conditions with excess stomach acid such as Zollinger-Ellison syndrome",
+      "Over-the-counter: short-term control of frequent heartburn (2 or more days per week)"
+    ],
+    "indications": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Erosive esophagitis",
+      "Gastric and duodenal ulcers",
+      "H. pylori eradication (in combination with antibiotics)",
+      "Pathological hypersecretory conditions (e.g., Zollinger-Ellison syndrome)",
+      "Frequent heartburn (OTC)"
+    ],
+    "common_side_effects": [
+      "Headache",
+      "Stomach pain",
+      "Gas",
+      "Nausea",
+      "Vomiting",
+      "Diarrhea",
+      "Constipation",
+      "Cold-like symptoms (stuffy nose, sore throat) and fever, especially in children",
+      "In men, difficulty achieving or maintaining an erection"
+    ],
+    "serious_side_effects": [
+      "Severe watery or bloody diarrhea with stomach pain or fever (possible Clostridioides difficile infection)",
+      "Kidney problems: less urination, blood in urine, fever, rash, joint pain, nausea, loss of appetite",
+      "Low magnesium: dizziness, irregular heartbeat, jitteriness, muscle cramps or spasms, seizures",
+      "Bone fractures of the hip, wrist, or spine (with long-term or high-dose use)",
+      "New or worsening lupus: joint pain and a sun-sensitive rash on the cheeks or arms",
+      "Severe skin reactions: blistering, peeling, or bleeding skin; mouth/genital sores",
+      "Serious allergic reaction: rash, hives, swelling of the face/lips/tongue/throat, trouble breathing",
+      "Vitamin B12 deficiency with use longer than 3 years; stomach (fundic gland) polyps with long-term use"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Watery or bloody diarrhea with severe stomach pain or fever",
+        "possible_relation_to_drug": "PPIs like omeprazole can increase the risk of a serious intestinal infection (C. difficile); persistent diarrhea may signal this.",
+        "recommended_action": "Contact your doctor before taking any anti-diarrhea medicine; seek care if severe or with fever."
+      },
+      {
+        "symptom": "Dizziness, irregular heartbeat, muscle cramps or spasms, jitteriness",
+        "possible_relation_to_drug": "May indicate low blood magnesium, which can occur with long-term PPI use.",
+        "recommended_action": "Contact a healthcare professional; magnesium levels may need to be checked."
+      },
+      {
+        "symptom": "Chest pain spreading to the jaw or shoulder with sweating or lightheadedness",
+        "possible_relation_to_drug": "Heartburn can mimic a heart attack; this is not a typical omeprazole side effect and may be a cardiac emergency.",
+        "recommended_action": "Seek emergency medical help immediately."
+      }
+    ],
+    "warnings": [
+      "Not intended for immediate relief of heartburn; it may take 1 to 4 days to work",
+      "Heartburn can mimic a heart attack - get emergency help for chest pain spreading to the jaw or shoulder with sweating or lightheadedness",
+      "Can cause kidney problems; report reduced urination or blood in the urine",
+      "Long-term or more-than-once-daily use increases the risk of bone fractures",
+      "Can cause low magnesium and, after more than 3 years, vitamin B12 deficiency",
+      "May cause or worsen lupus (joint pain with a sun-sensitive rash)",
+      "OTC use: do not take for more than 14 days or repeat more often than every 4 months without medical advice"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to omeprazole or other proton pump inhibitors (e.g., esomeprazole, lansoprazole, pantoprazole, rabeprazole)",
+      "Concomitant use with rilpivirine-containing HIV medicines"
+    ],
+    "dosage_forms": [
+      "Delayed-release oral capsule",
+      "Delayed-release oral tablet",
+      "Delayed-release granules / powder for oral suspension",
+      "Oral suspension (liquid)"
+    ],
+    "available_strengths": [
+      "10 mg",
+      "20 mg",
+      "40 mg",
+      "2.5 mg and 10 mg (powder for suspension)",
+      "2 mg/mL (oral suspension)"
+    ],
+    "usual_adult_dose": "Over-the-counter: 20 mg once daily for 14 days. Prescription: usually taken once daily before a meal; taken twice daily when combined with antibiotics for H. pylori; and up to three times daily before meals for conditions with excess stomach acid. Available as 10, 20, and 40 mg.",
+    "usual_adult_frequency": "Usually once daily before a meal (often in the morning); twice daily for H. pylori therapy; up to three times daily for acid-hypersecretory conditions",
+    "doses_per_day": 1,
+    "meal_relation": "Take before a meal (OTC: in the morning, at least 1 hour before eating); taking it with food reduces how much is absorbed",
+    "administration_instructions": "Swallow delayed-release capsules and tablets whole with water; do not split, chew, or crush them. If swallowing is hard, a capsule may be opened and the granules sprinkled on a tablespoon of cool applesauce and swallowed immediately without chewing. Mix granules/powder for suspension with water as directed and drink promptly. Take OTC omeprazole for only 14 days unless advised otherwise.",
+    "missed_dose_instructions": "Take the missed dose as soon as you remember. If it is almost time for the next dose, skip the missed dose and continue your regular schedule. Do not take a double dose to make up for a missed one.",
+    "storage_instructions": "Store at room temperature in the original, tightly closed container, away from light, excess heat, and moisture (not in the bathroom). Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Clopidogrel",
+        "severity": "high",
+        "description": "Omeprazole can reduce the activation of clopidogrel (a blood thinner) by inhibiting the CYP2C19 enzyme.",
+        "clinical_effect": "Reduced antiplatelet effect, potentially increasing clot risk; an alternative acid reducer is often preferred.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Rilpivirine-containing HIV medicines (e.g., Complera, Odefsey, Juluca)",
+        "severity": "high",
+        "description": "Reduced stomach acid markedly lowers rilpivirine absorption.",
+        "clinical_effect": "Loss of HIV treatment effectiveness; the combination is contraindicated.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Methotrexate (especially high-dose)",
+        "severity": "moderate",
+        "description": "Omeprazole can raise methotrexate blood levels.",
+        "clinical_effect": "Increased risk of methotrexate toxicity; a temporary PPI break may be advised.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Digoxin",
+        "severity": "moderate",
+        "description": "Reduced stomach acid can increase digoxin absorption.",
+        "clinical_effect": "Higher digoxin levels; monitoring may be needed.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Drugs that need stomach acid to be absorbed (certain azole antifungals such as ketoconazole/itraconazole, atazanavir, iron salts, levothyroxine)",
+        "severity": "moderate",
+        "description": "Omeprazole reduces stomach acid, lowering absorption of these medicines.",
+        "clinical_effect": "Reduced effectiveness of the affected medicine; dose or monitoring changes may be needed.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Food / meals",
+        "description": "There are no specific foods to avoid, but taking omeprazole with food reduces its absorption; take it before a meal (about 1 hour before eating)."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Osteoporosis / low bone density",
+        "description": "Long-term or high-dose use increases the risk of fractures."
+      },
+      {
+        "disease_or_condition": "Liver disease",
+        "description": "May affect omeprazole handling; tell your doctor before use."
+      },
+      {
+        "disease_or_condition": "Lupus (systemic lupus erythematosus)",
+        "description": "PPIs can trigger or worsen lupus symptoms."
+      },
+      {
+        "disease_or_condition": "Low magnesium, calcium, or potassium / hypoparathyroidism",
+        "description": "Omeprazole can lower magnesium; caution and monitoring may be needed."
+      },
+      {
+        "disease_or_condition": "Kidney disease",
+        "description": "Risk of acute kidney injury (interstitial nephritis); report reduced urination or blood in urine."
+      }
+    ],
+    "monitoring_requirements": [
+      "Magnesium levels with long-term use",
+      "Vitamin B12 with use longer than 3 years",
+      "Kidney function if symptoms of kidney problems occur",
+      "Bone health in people at risk of fracture",
+      "Symptom response - reassess if symptoms do not improve or recur"
+    ],
+    "patient_counseling_points": [
+      "Take it before a meal (often morning, about 1 hour before eating); it is not for instant relief and may take a few days to work.",
+      "Swallow capsules/tablets whole; if needed, sprinkle capsule granules on applesauce and swallow right away.",
+      "For OTC use, take for only 14 days and do not repeat more often than every 4 months without medical advice.",
+      "Report watery or bloody diarrhea, severe stomach pain, or signs of low magnesium (muscle cramps, irregular heartbeat).",
+      "Seek emergency care for chest pain spreading to the jaw or shoulder with sweating - heartburn can mimic a heart attack.",
+      "Discuss long-term risks (bone fractures, low magnesium, vitamin B12) if you take it for a long time."
+    ],
+    "caregiver_notes": "Help give omeprazole before meals and ensure capsules/tablets are swallowed whole (or granules given on applesauce). Watch for persistent watery/bloody diarrhea, signs of low magnesium, and reduced urination, and treat chest pain spreading to the jaw or shoulder as an emergency. For OTC use, keep courses to 14 days and discuss long-term use with a doctor. Do not change therapy without medical advice.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "MedlinePlus (NLM)",
+        "url": "https://medlineplus.gov/druginfo/meds/a693050.html"
+      },
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/omeprazole.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Ibuprofen",
+    "generic_name": "ibuprofen",
+    "drug_class": "Nonsteroidal anti-inflammatory drug (NSAID)",
+    "uses": [
+      "Relieves mild to moderate pain (headache, toothache, back pain, muscle aches, menstrual cramps, minor injury)",
+      "Reduces fever",
+      "Relieves pain, swelling, and stiffness of osteoarthritis and rheumatoid arthritis"
+    ],
+    "indications": [
+      "Mild to moderate pain, including menstrual (period) pain",
+      "Fever",
+      "Osteoarthritis and rheumatoid arthritis",
+      "Other inflammatory arthritis such as ankylosing spondylitis, gouty arthritis, and psoriatic arthritis"
+    ],
+    "common_side_effects": [
+      "Nausea or vomiting",
+      "Gas or bloating",
+      "Constipation",
+      "Heartburn / upset stomach",
+      "Dizziness",
+      "Headache",
+      "Nervousness",
+      "Ringing in the ears (tinnitus)"
+    ],
+    "serious_side_effects": [
+      "Heart attack or stroke: chest pain spreading to the jaw or shoulder, sudden weakness or numbness on one side, slurred speech, shortness of breath",
+      "Stomach or intestinal bleeding: bloody or black/tarry stools, vomit that is bloody or looks like coffee grounds, severe stomach pain",
+      "Kidney problems: little or no urination, swelling of the feet/ankles, tiredness or shortness of breath",
+      "Liver problems: nausea, upper-right stomach pain, dark urine, jaundice (yellow skin or eyes)",
+      "Serious allergic reaction or severe skin reaction (hives, facial/throat swelling, blistering/peeling rash)",
+      "Fluid retention, high blood pressure, or heart failure (swelling, rapid weight gain, breathlessness)",
+      "Anemia (pale skin, lightheadedness, rapid heartbeat); rarely aseptic meningitis (headache, stiff neck, fever)"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Black or tarry stools, bloody or coffee-ground vomit, or severe stomach pain",
+        "possible_relation_to_drug": "Signs of stomach or intestinal bleeding, a serious NSAID risk that can occur without warning.",
+        "recommended_action": "Stop taking ibuprofen and seek urgent medical care."
+      },
+      {
+        "symptom": "Chest pain, shortness of breath, weakness on one side of the body, or slurred speech",
+        "possible_relation_to_drug": "NSAIDs can increase the risk of heart attack and stroke.",
+        "recommended_action": "Call emergency services immediately."
+      },
+      {
+        "symptom": "Swelling of the feet, ankles, or legs, or sudden weight gain",
+        "possible_relation_to_drug": "May reflect fluid retention or effects on the kidneys or heart from ibuprofen.",
+        "recommended_action": "Contact a healthcare professional; do not continue without advice if this develops."
+      },
+      {
+        "symptom": "Ringing in the ears or dizziness",
+        "possible_relation_to_drug": "Common, usually mild NSAID side effects.",
+        "recommended_action": "If persistent or bothersome, stop and ask a healthcare professional; consider the lowest effective dose."
+      }
+    ],
+    "warnings": [
+      "Boxed warning: increased risk of serious, potentially fatal heart attack and stroke; do not use just before or after heart bypass (CABG) surgery",
+      "Boxed warning: risk of serious, potentially fatal stomach/intestinal ulcers and bleeding, especially in older adults, with long use, or with alcohol",
+      "Use the lowest effective dose for the shortest time needed",
+      "Avoid during the last 20 weeks of pregnancy unless directed by a doctor (risk to the baby's heart and kidneys)",
+      "Use caution with heart disease, high blood pressure, heart failure, kidney or liver disease, and asthma",
+      "Do not combine with other NSAIDs or other pain products containing the same type of ingredient"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to ibuprofen",
+      "History of asthma attack, hives, or severe allergic reaction after aspirin or other NSAIDs",
+      "In the setting of coronary artery bypass graft (CABG) surgery"
+    ],
+    "dosage_forms": [
+      "Oral tablet",
+      "Chewable tablet",
+      "Oral capsule / gel capsule",
+      "Oral suspension (liquid)",
+      "Oral drops (concentrated liquid)"
+    ],
+    "available_strengths": [
+      "100 mg",
+      "200 mg",
+      "400 mg",
+      "600 mg",
+      "800 mg",
+      "50 mg and 100 mg (chewable)",
+      "100 mg/5 mL (suspension)",
+      "50 mg/1.25 mL (infant drops)"
+    ],
+    "usual_adult_dose": "Over-the-counter: 200-400 mg every 4-6 hours as needed; do not exceed 1200 mg/day (no more than 6 doses of 200 mg in 24 hours) unless directed. Prescription: maximum 800 mg per dose and 3200 mg per day.",
+    "usual_adult_frequency": "Every 4 to 6 hours as needed for pain or fever; 3 to 4 times daily for arthritis. Use the lowest effective dose.",
+    "doses_per_day": null,
+    "meal_relation": "Take with food or milk to reduce stomach upset (low OTC doses may be taken on an empty stomach for faster relief)",
+    "administration_instructions": "Take by mouth with water; swallow tablets whole and chew chewable tablets before swallowing. Shake the liquid and measure with the supplied device, not a kitchen spoon. Use the lowest effective dose for the shortest time. Do not take other products containing ibuprofen or other NSAIDs at the same time.",
+    "missed_dose_instructions": "Ibuprofen is often taken only as needed. If you take it on a schedule, take the missed dose when you remember, but skip it if it is almost time for the next dose. Never take two doses at once.",
+    "storage_instructions": "Store at room temperature, away from excess heat and moisture (not in the bathroom). Do not allow liquid forms to freeze. Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Low-dose aspirin (taken to protect the heart)",
+        "severity": "moderate",
+        "description": "Ibuprofen can block aspirin's antiplatelet effect if taken too close together.",
+        "clinical_effect": "Reduced heart/stroke protection from aspirin; take ibuprofen at least 8 hours before or at least 30 minutes after immediate-release aspirin.",
+        "recommended_gap_hours": 8
+      },
+      {
+        "interacting_drug": "Anticoagulants / blood thinners (warfarin) and antiplatelet drugs",
+        "severity": "high",
+        "description": "Additive effects on bleeding plus NSAID stomach irritation.",
+        "clinical_effect": "Significantly increased risk of serious bleeding.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "SSRIs/SNRIs (antidepressants such as fluoxetine, sertraline, duloxetine, venlafaxine)",
+        "severity": "moderate",
+        "description": "Combining with an NSAID increases bleeding tendency.",
+        "clinical_effect": "Easier bruising and increased risk of stomach bleeding.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Oral corticosteroids (e.g., prednisone)",
+        "severity": "moderate",
+        "description": "Additive risk of stomach ulcers and bleeding.",
+        "clinical_effect": "Increased risk of GI ulceration and bleeding.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Blood-pressure medicines (ACE inhibitors/ARBs) plus diuretics",
+        "severity": "moderate",
+        "description": "NSAIDs can reduce the effect of these medicines and, combined with a diuretic, can harm the kidneys.",
+        "clinical_effect": "Reduced blood-pressure control and risk of kidney injury.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Lithium and methotrexate",
+        "severity": "moderate",
+        "description": "Ibuprofen can raise blood levels of these drugs.",
+        "clinical_effect": "Increased risk of lithium or methotrexate toxicity.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "Increases the risk of stomach bleeding; avoid or limit alcohol while taking ibuprofen."
+      },
+      {
+        "food_or_beverage": "Food / milk",
+        "description": "Taking ibuprofen with food or milk can reduce stomach upset."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Heart disease, high blood pressure, or heart failure",
+        "description": "NSAIDs raise the risk of cardiovascular events and can cause fluid retention and worsen blood pressure/heart failure."
+      },
+      {
+        "disease_or_condition": "History of stomach ulcer or GI bleeding",
+        "description": "Higher risk of serious ulcers and bleeding."
+      },
+      {
+        "disease_or_condition": "Kidney disease",
+        "description": "NSAIDs can reduce kidney function, especially with dehydration or other kidney-affecting drugs."
+      },
+      {
+        "disease_or_condition": "Asthma (especially with nasal polyps)",
+        "description": "Can trigger severe bronchospasm in aspirin/NSAID-sensitive asthma."
+      },
+      {
+        "disease_or_condition": "Liver disease",
+        "description": "Use with caution; rare liver injury can occur."
+      }
+    ],
+    "monitoring_requirements": [
+      "Blood pressure",
+      "Kidney function, especially with long-term use or in at-risk people",
+      "Signs of stomach bleeding (black stools, coffee-ground vomit)",
+      "Complete blood count (for anemia) with prolonged use",
+      "Liver enzymes if symptoms of liver problems occur"
+    ],
+    "patient_counseling_points": [
+      "Use the lowest dose that works, for the shortest time; do not exceed label/prescribed limits.",
+      "Take with food or milk if it upsets your stomach.",
+      "Stop and seek care for black/tarry stools, bloody or coffee-ground vomit, or severe stomach pain.",
+      "Seek emergency help for chest pain, breathlessness, or stroke symptoms.",
+      "Do not combine with other NSAIDs; separate from low-dose aspirin (8 hours before or 30 minutes after).",
+      "Avoid in the last 20 weeks of pregnancy unless your doctor advises, and limit alcohol."
+    ],
+    "caregiver_notes": "Use the lowest effective dose for the shortest time, give with food if it causes stomach upset, and avoid doubling up with other NSAID-containing products. Watch for signs of stomach bleeding (black stools, coffee-ground vomit) and treat chest pain or stroke symptoms as an emergency. Be especially cautious in older adults and people with heart, kidney, or ulcer history. For children, dose strictly by weight/age per the package and use the supplied measuring device.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "MedlinePlus (NLM)",
+        "url": "https://medlineplus.gov/druginfo/meds/a682159.html"
+      },
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/ibuprofen.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Acetaminophen",
+    "generic_name": "acetaminophen (paracetamol; APAP)",
+    "drug_class": "Non-opioid analgesic and antipyretic",
+    "uses": [
+      "Relief of mild to moderate pain (headache, backache, toothache, muscle aches, menstrual cramps, minor arthritis, cold/flu aches)",
+      "Reduction of fever"
+    ],
+    "indications": [
+      "Mild to moderate pain",
+      "Fever",
+      "Component of combination products for migraine, cough/cold, menstrual symptoms, and (with opioids) moderate to severe pain"
+    ],
+    "common_side_effects": [
+      "Generally well tolerated at recommended doses",
+      "Nausea",
+      "Stomach pain",
+      "Loss of appetite",
+      "Headache",
+      "Occasional skin rash or itching"
+    ],
+    "serious_side_effects": [
+      "Liver damage from overdose, high doses, or use with alcohol: upper-right stomach pain, loss of appetite, tiredness, dark urine, clay-colored stools, jaundice (yellow skin or eyes)",
+      "Severe skin reactions (e.g., Stevens-Johnson syndrome): skin redness or rash that spreads with blistering and peeling - can be fatal",
+      "Serious allergic reaction: hives, swelling of the face/lips/tongue/throat, difficulty breathing"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Nausea, vomiting, loss of appetite, upper-belly pain, or sweating after taking acetaminophen",
+        "possible_relation_to_drug": "These can be early signs of acetaminophen overdose and liver injury, which may occur even when someone initially feels well.",
+        "recommended_action": "If too much acetaminophen may have been taken, seek emergency medical help or call Poison Control (1-800-222-1222) immediately, even without symptoms."
+      },
+      {
+        "symptom": "Yellowing of the skin or eyes, dark urine, or pale/clay-colored stools",
+        "possible_relation_to_drug": "May indicate liver damage from acetaminophen.",
+        "recommended_action": "Stop taking it and seek medical care promptly."
+      },
+      {
+        "symptom": "A spreading skin rash with blistering or peeling",
+        "possible_relation_to_drug": "Rare but serious skin reaction to acetaminophen.",
+        "recommended_action": "Stop the medicine and seek emergency care."
+      }
+    ],
+    "warnings": [
+      "Important warning: taking too much acetaminophen can cause serious, sometimes fatal liver damage",
+      "Do not take more than 4000 mg per day from all sources, and do not take more than one product containing acetaminophen (also labeled APAP) at a time",
+      "Do not use if you drink 3 or more alcoholic drinks per day without talking to your doctor",
+      "Do not use with severe liver disease",
+      "If an overdose is suspected, get medical help right away even if you feel well",
+      "A 2025 FDA notice describes a possible association between acetaminophen use in pregnancy and ASD/ADHD; a causal link has not been proven and evidence is mixed - discuss use during pregnancy with your doctor"
+    ],
+    "contraindications": [
+      "Severe liver disease",
+      "Known hypersensitivity to acetaminophen",
+      "Use together with another acetaminophen-containing product (risk of overdose)"
+    ],
+    "dosage_forms": [
+      "Oral tablet",
+      "Chewable tablet",
+      "Orally disintegrating tablet",
+      "Capsule / gel capsule",
+      "Extended-release tablet",
+      "Oral suspension / solution (liquid)",
+      "Effervescent granules / oral powder",
+      "Rectal suppository",
+      "Intravenous injection (prescription)"
+    ],
+    "available_strengths": [
+      "325 mg",
+      "500 mg",
+      "650 mg (extended-release)",
+      "80 mg and 160 mg (chewable / disintegrating)",
+      "160 mg/5 mL (oral suspension)"
+    ],
+    "usual_adult_dose": "Adults and children 12+ weighing at least 110 lb: 325-1000 mg every 4-6 hours as needed; no more than 1000 mg per dose and no more than 4000 mg in 24 hours. Extended-release (650 mg) is taken every 8 hours. Lower limits may apply with liver disease or regular alcohol use.",
+    "usual_adult_frequency": "Every 4 to 6 hours as needed (extended-release every 8 hours); do not exceed the daily maximum",
+    "doses_per_day": null,
+    "meal_relation": "May be taken with or without food",
+    "administration_instructions": "Take by mouth exactly as directed for your specific product. Swallow extended-release tablets whole (do not split, chew, or crush). Chew chewable tablets; let orally disintegrating tablets dissolve on the tongue. Shake liquids and measure only with the device supplied with that product. Always check labels so you do not take more than one acetaminophen-containing product.",
+    "missed_dose_instructions": "Acetaminophen is usually taken as needed. If you are on a regular schedule, take the missed dose when you remember unless it is almost time for the next dose, then skip it. Do not take a double dose.",
+    "storage_instructions": "Store at room temperature in the original, tightly closed container, away from excess heat and moisture (not in the bathroom). Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Warfarin (and other coumarin anticoagulants)",
+        "severity": "moderate",
+        "description": "Regular acetaminophen above about 1300 mg/day for several days can enhance warfarin's effect.",
+        "clinical_effect": "Increased bleeding risk / higher INR; more frequent INR monitoring may be needed.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Other acetaminophen-containing products (many cold/flu, pain, and sleep combinations)",
+        "severity": "high",
+        "description": "Taking more than one product that contains acetaminophen adds up.",
+        "clinical_effect": "Accidental overdose and serious liver damage.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Alcohol",
+        "severity": "high",
+        "description": "Alcohol increases the liver's vulnerability to acetaminophen.",
+        "clinical_effect": "Greater risk of serious liver damage.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "Increases the risk of liver damage; avoid or limit alcohol, and do not use acetaminophen if you have 3 or more alcoholic drinks per day without medical advice."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Liver disease",
+        "description": "Contraindicated in severe liver disease; lower daily limits may be needed in other liver conditions."
+      },
+      {
+        "disease_or_condition": "Chronic heavy alcohol use",
+        "description": "Higher risk of liver toxicity even at usual doses."
+      },
+      {
+        "disease_or_condition": "Phenylketonuria (PKU)",
+        "description": "Some chewable forms contain aspartame (a source of phenylalanine); check the label."
+      }
+    ],
+    "monitoring_requirements": [
+      "Track total daily acetaminophen from all products (stay at or below 4000 mg/day)",
+      "Liver function in people with liver disease, heavy alcohol use, or long-term high-dose use",
+      "INR if taken regularly with warfarin",
+      "Note: acetaminophen can cause false readings on some blood glucose monitors"
+    ],
+    "patient_counseling_points": [
+      "Never exceed 4000 mg in 24 hours, and check every medicine label for acetaminophen or APAP.",
+      "Do not take two acetaminophen-containing products at the same time.",
+      "Avoid alcohol; the combination can harm the liver.",
+      "If you think you took too much, get help immediately even if you feel fine.",
+      "Stop and call your doctor for yellow skin/eyes, dark urine, or a spreading blistering rash.",
+      "Talk to your doctor about using acetaminophen during pregnancy."
+    ],
+    "caregiver_notes": "Keep a running total of acetaminophen from every product, since many cold/flu, pain, and sleep medicines contain it (often shown as APAP) - exceeding the daily limit can cause serious liver damage. For children, dose strictly by weight/age and use only the measuring device that came with that product. If an overdose is even possible, seek emergency care right away, before symptoms appear.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "MedlinePlus (NLM)",
+        "url": "https://medlineplus.gov/druginfo/meds/a681004.html"
+      },
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/acetaminophen.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Aspirin",
+    "generic_name": "aspirin (acetylsalicylic acid; ASA)",
+    "drug_class": "Salicylate; antiplatelet agent (also a nonsteroidal anti-inflammatory drug)",
+    "uses": [
+      "Reduces fever",
+      "Relieves mild to moderate pain and inflammation",
+      "Helps prevent and treat heart attacks, strokes, mini-strokes (TIAs), and chest pain (angina) - cardiovascular use only under a doctor's supervision"
+    ],
+    "indications": [
+      "Mild to moderate pain and inflammation",
+      "Fever",
+      "Prevention and treatment of heart attack and ischemic stroke (antiplatelet use)",
+      "Angina / acute coronary syndromes",
+      "Other physician-directed uses: rheumatic fever, Kawasaki disease, and clot/pregnancy-complication prevention"
+    ],
+    "common_side_effects": [
+      "Upset stomach",
+      "Heartburn",
+      "Nausea or vomiting",
+      "Stomach pain",
+      "Drowsiness",
+      "Mild headache"
+    ],
+    "serious_side_effects": [
+      "Stomach or intestinal bleeding: bloody or black/tarry stools, vomit that is bloody or looks like coffee grounds",
+      "Salicylate toxicity: ringing in the ears or hearing loss, confusion, hallucinations, rapid breathing, seizures",
+      "Serious allergic reaction: hives, swelling of the face/lips/tongue/throat, wheezing or difficulty breathing",
+      "Reye's syndrome in children and teenagers (serious, sometimes fatal)",
+      "Severe nausea, vomiting, or stomach pain; fast heartbeat; cold, clammy skin"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Ringing in the ears, hearing loss, confusion, or rapid breathing",
+        "possible_relation_to_drug": "Can be signs of salicylate (aspirin) toxicity, which may occur with high doses or over time.",
+        "recommended_action": "Stop taking aspirin and seek urgent medical care or call Poison Control (1-800-222-1222)."
+      },
+      {
+        "symptom": "Black or tarry stools, bloody or coffee-ground vomit, or severe stomach pain",
+        "possible_relation_to_drug": "Signs of stomach or intestinal bleeding, a known risk of aspirin.",
+        "recommended_action": "Stop taking aspirin and seek urgent medical care."
+      },
+      {
+        "symptom": "Hives, swelling of the face/throat, or wheezing",
+        "possible_relation_to_drug": "May be an allergic reaction; people with asthma or nasal polyps are at higher risk.",
+        "recommended_action": "Seek emergency medical help immediately."
+      }
+    ],
+    "warnings": [
+      "Do not give aspirin to children or teenagers with fever, flu symptoms, or chickenpox due to the risk of Reye's syndrome",
+      "Increases the risk of stomach and intestinal bleeding, especially with alcohol, ulcers, or long-term use",
+      "Avoid if you have had asthma or a severe allergic reaction to aspirin or other NSAIDs",
+      "Doses above 81 mg should generally be avoided after 20 weeks of pregnancy unless directed by a doctor; aspirin in late pregnancy can cause bleeding",
+      "Use for heart attack/stroke prevention only under a doctor's direction",
+      "Ibuprofen can reduce aspirin's heart-protective effect - separate the doses",
+      "Discard tablets that smell strongly of vinegar (they may no longer be effective)"
+    ],
+    "contraindications": [
+      "Known allergy to aspirin or other NSAIDs",
+      "History of asthma attack or severe allergic reaction after aspirin/NSAIDs",
+      "Bleeding disorder such as hemophilia",
+      "Recent or active stomach/intestinal bleeding",
+      "Children and teenagers with a viral illness (risk of Reye's syndrome)"
+    ],
+    "dosage_forms": [
+      "Oral tablet",
+      "Enteric-coated / delayed-release tablet",
+      "Extended-release tablet",
+      "Chewable tablet"
+    ],
+    "available_strengths": [
+      "81 mg (low-dose / 'baby' aspirin)",
+      "325 mg",
+      "Extended-release forms (e.g., 162.5 mg)"
+    ],
+    "usual_adult_dose": "For pain or fever: take per the package label, generally every 4-6 hours as needed (e.g., 325 mg, not exceeding label limits). For heart attack/stroke prevention (only when a doctor advises): a low dose, commonly 81 mg, once daily.",
+    "usual_adult_frequency": "Every 4 to 6 hours as needed for pain or fever; once daily for cardiovascular (antiplatelet) use",
+    "doses_per_day": null,
+    "meal_relation": "Take with food if it upsets your stomach, with a full glass of water",
+    "administration_instructions": "Take by mouth as directed. Chew chewable tablets before swallowing (and drink water). Swallow enteric-coated, delayed-release, or extended-release tablets whole - do not crush, break, or chew. Take with food/water if it causes stomach upset. Tell surgeons/dentists you take aspirin, as it may need to be paused before procedures.",
+    "missed_dose_instructions": "Aspirin for pain is taken as needed. If you take it on a schedule (e.g., daily for the heart) and miss a dose, take it when you remember unless it is almost time for the next dose, then skip it. Do not double up.",
+    "storage_instructions": "Store at room temperature in the original, tightly closed container, away from excess heat and moisture (not in the bathroom). Discard tablets that have a strong vinegar smell. Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Anticoagulants / blood thinners (warfarin) and other antiplatelet drugs",
+        "severity": "high",
+        "description": "Aspirin adds to the bleeding effect of these medicines.",
+        "clinical_effect": "Significantly increased risk of serious bleeding.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Ibuprofen and other NSAIDs",
+        "severity": "moderate",
+        "description": "Ibuprofen can block aspirin's antiplatelet (heart-protective) effect, and combining NSAIDs increases stomach bleeding.",
+        "clinical_effect": "Reduced cardioprotection and higher GI bleeding risk; take ibuprofen at least 8 hours before or 30 minutes after immediate-release aspirin.",
+        "recommended_gap_hours": 8
+      },
+      {
+        "interacting_drug": "SSRIs/SNRIs (antidepressants such as fluoxetine, sertraline, paroxetine)",
+        "severity": "moderate",
+        "description": "Combining with aspirin increases bleeding tendency.",
+        "clinical_effect": "Easier bruising and increased risk of bleeding.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Other salicylate-containing products (e.g., bismuth subsalicylate / Pepto-Bismol, choline/magnesium salicylate)",
+        "severity": "moderate",
+        "description": "Adds to the total salicylate dose.",
+        "clinical_effect": "Increased risk of salicylate toxicity.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "Heavy drinking increases the risk of stomach bleeding; avoid or limit alcohol while taking aspirin."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Bleeding or clotting disorders (e.g., hemophilia)",
+        "description": "Higher risk of serious bleeding; aspirin is generally avoided."
+      },
+      {
+        "disease_or_condition": "Stomach ulcers or prior GI bleeding",
+        "description": "Increased risk of ulcers and bleeding."
+      },
+      {
+        "disease_or_condition": "Asthma with nasal polyps / aspirin sensitivity",
+        "description": "Can trigger severe allergic or breathing reactions."
+      },
+      {
+        "disease_or_condition": "Kidney or liver disease",
+        "description": "Use with caution; may worsen organ function or bleeding risk."
+      },
+      {
+        "disease_or_condition": "Gout",
+        "description": "Aspirin can affect uric acid handling; tell your doctor if you have gout."
+      }
+    ],
+    "monitoring_requirements": [
+      "Watch for signs of bleeding (black stools, coffee-ground vomit, easy bruising)",
+      "Hearing changes or ringing in the ears (possible salicylate toxicity)",
+      "Kidney and liver function in at-risk patients",
+      "Periodic review of ongoing need for daily (cardiovascular) aspirin"
+    ],
+    "patient_counseling_points": [
+      "Never give aspirin to children or teenagers with fever, flu, or chickenpox (risk of Reye's syndrome).",
+      "Take with food and a full glass of water if it upsets your stomach.",
+      "Stop and seek care for black/tarry stools, bloody or coffee-ground vomit, or ringing in the ears.",
+      "If you take daily aspirin for your heart, do not stop suddenly without medical advice, and avoid ibuprofen close to your aspirin dose.",
+      "Tell your dentist or surgeon you take aspirin before any procedure.",
+      "Avoid heavy alcohol use."
+    ],
+    "caregiver_notes": "Never give aspirin to a child or teenager with a fever, flu, or chickenpox because of the risk of Reye's syndrome. Watch for signs of bleeding (black stools, coffee-ground vomit) and salicylate toxicity (ringing in the ears, confusion, fast breathing) and seek care promptly. Give with food/water, keep daily heart-protection aspirin on schedule per the doctor, and avoid combining with other NSAID- or salicylate-containing products.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "MedlinePlus (NLM)",
+        "url": "https://medlineplus.gov/druginfo/meds/a682878.html"
+      },
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/aspirin.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Naproxen",
+    "generic_name": "naproxen (also as naproxen sodium)",
+    "drug_class": "Nonsteroidal anti-inflammatory drug (NSAID)",
+    "uses": [
+      "Relieves pain, tenderness, swelling, and stiffness from arthritis (osteoarthritis, rheumatoid, juvenile, ankylosing spondylitis)",
+      "Relieves pain from bursitis, tendinitis, gout attacks, and menstrual cramps",
+      "Reduces fever and relieves minor aches and pains (over-the-counter)"
+    ],
+    "indications": [
+      "Osteoarthritis, rheumatoid arthritis, juvenile arthritis, ankylosing spondylitis",
+      "Tendinitis, bursitis, and acute gouty arthritis",
+      "Mild to moderate pain, including menstrual pain",
+      "Fever (OTC)"
+    ],
+    "common_side_effects": [
+      "Indigestion / heartburn",
+      "Stomach pain",
+      "Nausea",
+      "Headache",
+      "Dizziness or lightheadedness",
+      "Drowsiness",
+      "Constipation or gas",
+      "Ringing in the ears",
+      "Bruising, itching, or rash",
+      "Trouble sleeping"
+    ],
+    "serious_side_effects": [
+      "Heart attack or stroke: chest pain spreading to the jaw or shoulder, sudden one-sided weakness or numbness, slurred speech, shortness of breath",
+      "Stomach or intestinal bleeding: bloody or black/tarry stools, vomit that is bloody or looks like coffee grounds",
+      "Kidney problems: little or no urination, swelling of the feet/ankles, tiredness or breathlessness",
+      "Liver problems: upper-right stomach pain, dark urine, jaundice (yellow skin/eyes)",
+      "Anemia (pale skin, lightheadedness, rapid heartbeat)",
+      "Severe skin reaction or serious whole-body drug reaction (rash with blistering/peeling, fever, swollen glands)",
+      "Fluid retention, high blood pressure, or heart failure (swelling, rapid weight gain, breathlessness)"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Black or tarry stools, bloody or coffee-ground vomit, or severe stomach pain",
+        "possible_relation_to_drug": "Signs of stomach or intestinal bleeding, a serious NSAID risk that can occur without warning.",
+        "recommended_action": "Stop taking naproxen and seek urgent medical care."
+      },
+      {
+        "symptom": "Chest pain, shortness of breath, weakness on one side, or slurred speech",
+        "possible_relation_to_drug": "NSAIDs can increase the risk of heart attack and stroke.",
+        "recommended_action": "Call emergency services immediately."
+      },
+      {
+        "symptom": "Swelling of the ankles, feet, or legs, or sudden weight gain",
+        "possible_relation_to_drug": "May reflect fluid retention or effects on the kidneys or heart.",
+        "recommended_action": "Contact a healthcare professional and do not continue without advice."
+      },
+      {
+        "symptom": "Ringing in the ears",
+        "possible_relation_to_drug": "A common NSAID side effect.",
+        "recommended_action": "If persistent or bothersome, stop and seek advice; consider the lowest effective dose."
+      }
+    ],
+    "warnings": [
+      "Boxed warning: increased risk of serious, potentially fatal heart attack and stroke; do not use just before or after heart bypass (CABG) surgery",
+      "Boxed warning: risk of serious, potentially fatal stomach/intestinal ulcers and bleeding, especially in older adults, with long use, or with alcohol",
+      "Use the lowest effective dose for the shortest time",
+      "Avoid during the last 20 weeks of pregnancy unless directed by a doctor",
+      "Delayed-release and extended-release forms are for chronic conditions and do not work fast enough for acute pain",
+      "Use caution with heart disease, high blood pressure, heart failure, kidney disease, and asthma; may temporarily reduce female fertility"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to naproxen",
+      "History of asthma attack, hives, or severe allergic reaction after aspirin or other NSAIDs",
+      "In the setting of coronary artery bypass graft (CABG) surgery"
+    ],
+    "dosage_forms": [
+      "Oral tablet",
+      "Delayed-release (enteric-coated) tablet",
+      "Extended-release tablet",
+      "Oral capsule / gel capsule",
+      "Oral suspension (liquid)"
+    ],
+    "available_strengths": [
+      "220 mg (OTC, naproxen sodium)",
+      "250 mg",
+      "375 mg",
+      "500 mg",
+      "275 mg and 550 mg (naproxen sodium)"
+    ],
+    "usual_adult_dose": "Over-the-counter: 220 mg every 8-12 hours as needed (follow label limits). Prescription: 250-500 mg twice daily for arthritis; every 6-8 hours as needed for other pain; every 8 hours for acute gout. Extended-release forms are taken once daily. Use the lowest effective dose.",
+    "usual_adult_frequency": "Twice daily for arthritis; every 6-8 hours as needed for pain; once daily for extended-release; OTC every 8-12 hours as needed",
+    "doses_per_day": null,
+    "meal_relation": "Take with food or milk (and a full glass of water) to reduce nausea/stomach upset; ask before using antacids, as some can reduce naproxen absorption",
+    "administration_instructions": "Take by mouth with water; take with food or milk if it upsets your stomach. Swallow delayed-release and extended-release tablets whole - do not split, chew, or crush. Shake the suspension and measure with the supplied device. Use the lowest effective dose for the shortest time, and do not take other NSAID-containing products at the same time.",
+    "missed_dose_instructions": "If taken as needed, no schedule applies. If you take it on a schedule, take the missed dose when you remember unless it is almost time for the next dose, then skip it. Do not take a double dose.",
+    "storage_instructions": "Store at room temperature in the original, tightly closed container, away from excess heat, moisture, and light (not in the bathroom). Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Anticoagulants / blood thinners (warfarin) and antiplatelet drugs",
+        "severity": "high",
+        "description": "Naproxen adds to bleeding effects and irritates the stomach lining; it can raise bleeding risk markedly in people on blood thinners.",
+        "clinical_effect": "Significantly increased risk of serious bleeding.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "SSRIs/SNRIs (antidepressants such as fluoxetine, sertraline, duloxetine, venlafaxine)",
+        "severity": "moderate",
+        "description": "Combining with an NSAID increases bleeding tendency.",
+        "clinical_effect": "Easier bruising and increased risk of stomach bleeding.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Other NSAIDs, aspirin, or salicylates",
+        "severity": "moderate",
+        "description": "Adds to GI and kidney toxicity; naproxen may also interfere with low-dose aspirin's heart-protective effect.",
+        "clinical_effect": "Higher risk of bleeding/ulcers and possible loss of aspirin cardioprotection.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Oral corticosteroids (e.g., prednisone)",
+        "severity": "moderate",
+        "description": "Additive risk of stomach ulcers and bleeding.",
+        "clinical_effect": "Increased risk of GI ulceration and bleeding.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Lithium, methotrexate, and pemetrexed",
+        "severity": "moderate",
+        "description": "Naproxen can raise blood levels of these drugs.",
+        "clinical_effect": "Increased risk of lithium, methotrexate, or pemetrexed toxicity.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Blood-pressure medicines (ACE inhibitors/ARBs) plus diuretics",
+        "severity": "moderate",
+        "description": "NSAIDs can reduce their effect and, with a diuretic, can harm the kidneys.",
+        "clinical_effect": "Reduced blood-pressure control and risk of kidney injury.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "Increases the risk of stomach bleeding; avoid or limit alcohol while taking naproxen."
+      },
+      {
+        "food_or_beverage": "Food / milk",
+        "description": "Taking naproxen with food or milk reduces stomach upset."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Heart disease, high blood pressure, or heart failure",
+        "description": "NSAIDs raise cardiovascular risk and can cause fluid retention and worsen blood pressure/heart failure."
+      },
+      {
+        "disease_or_condition": "History of stomach ulcer or GI bleeding",
+        "description": "Higher risk of serious ulcers and bleeding."
+      },
+      {
+        "disease_or_condition": "Kidney disease",
+        "description": "Naproxen can reduce kidney function, especially with dehydration or other kidney-affecting drugs."
+      },
+      {
+        "disease_or_condition": "Asthma (especially with nasal polyps)",
+        "description": "Can trigger severe bronchospasm in aspirin/NSAID-sensitive asthma."
+      },
+      {
+        "disease_or_condition": "Liver disease",
+        "description": "Use with caution; rare liver injury can occur."
+      }
+    ],
+    "monitoring_requirements": [
+      "Blood pressure",
+      "Kidney function, especially with long-term use or in at-risk people",
+      "Signs of stomach bleeding (black stools, coffee-ground vomit)",
+      "Complete blood count (for anemia) with prolonged use",
+      "Liver enzymes if symptoms of liver problems occur"
+    ],
+    "patient_counseling_points": [
+      "Use the lowest dose that works, for the shortest time; do not exceed label/prescribed limits.",
+      "Take with food or milk and a full glass of water to reduce stomach upset.",
+      "Stop and seek care for black/tarry stools, bloody or coffee-ground vomit, or severe stomach pain.",
+      "Seek emergency help for chest pain, breathlessness, or stroke symptoms.",
+      "Do not combine with other NSAIDs; ask before combining with low-dose aspirin.",
+      "Avoid in the last 20 weeks of pregnancy unless your doctor advises, and limit alcohol."
+    ],
+    "caregiver_notes": "Use the lowest effective dose for the shortest time, give with food or milk if it causes stomach upset, and avoid combining with other NSAID-containing products. Watch for signs of stomach bleeding (black stools, coffee-ground vomit) and treat chest pain or stroke symptoms as an emergency. Be especially cautious in older adults and people with heart, kidney, or ulcer history. Remember that delayed/extended-release forms are not for fast pain relief.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "MedlinePlus (NLM)",
+        "url": "https://medlineplus.gov/druginfo/meds/a681029.html"
+      },
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/naproxen.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Diphenhydramine",
+    "generic_name": "diphenhydramine (hydrochloride or citrate)",
+    "drug_class": "First-generation (sedating) antihistamine with anticholinergic properties",
+    "uses": [
+      "Relief of allergy and cold symptoms: sneezing, runny nose, itchy/watery eyes, itching of the nose or throat, hives, and skin rash",
+      "Short-term treatment of insomnia in adults (sleep aid)",
+      "Prevention and treatment of motion sickness",
+      "Management of certain Parkinson's disease symptoms and as part of treating allergic reactions"
+    ],
+    "indications": [
+      "Allergic rhinitis and other allergy symptoms",
+      "Urticaria (hives) and itching",
+      "Common cold symptoms",
+      "Short-term insomnia (adults)",
+      "Motion sickness",
+      "Parkinsonism / drug-induced movement symptoms"
+    ],
+    "common_side_effects": [
+      "Drowsiness",
+      "Dizziness",
+      "Dry mouth, nose, and throat",
+      "Blurred vision / dry eyes",
+      "Constipation or upset stomach",
+      "Loss of coordination / muscle weakness",
+      "Next-day grogginess or 'hangover' feeling after nighttime use",
+      "Excitement or agitation (especially in children, sometimes in older adults)"
+    ],
+    "serious_side_effects": [
+      "Pounding or fluttering heartbeat",
+      "Painful or difficult urination, or little/no urination (urinary retention)",
+      "Confusion or feeling like you might pass out",
+      "Tightness in the neck or jaw, or uncontrollable tongue movements",
+      "Serious allergic reaction: hives, difficulty breathing, swelling of the face/lips/tongue/throat",
+      "Anticholinergic toxicity in overdose (which can be fatal)"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Strong drowsiness, grogginess, dizziness, or loss of coordination",
+        "possible_relation_to_drug": "Expected sedating effects of this first-generation antihistamine; they can persist into the next day after nighttime use.",
+        "recommended_action": "Do not drive or operate machinery; avoid alcohol. If excessive or persistent, reduce use and ask a healthcare professional."
+      },
+      {
+        "symptom": "Difficulty or painful urination, or passing little/no urine",
+        "possible_relation_to_drug": "Anticholinergic effect of diphenhydramine, more likely in men with an enlarged prostate.",
+        "recommended_action": "Stop and contact your doctor."
+      },
+      {
+        "symptom": "Confusion, hallucinations, pounding heartbeat, or feeling faint",
+        "possible_relation_to_drug": "Can reflect anticholinergic toxicity or overdose, more likely with high doses or in older adults.",
+        "recommended_action": "Seek medical care; for suspected overdose call Poison Control (1-800-222-1222) or emergency services."
+      }
+    ],
+    "warnings": [
+      "Causes drowsiness - do not drive or operate machinery until you know how it affects you",
+      "Alcohol and other sedating medicines add to the drowsiness",
+      "Do not use to make a child sleepy, and do not give to a child under 2 years (misuse of cough/cold medicines can be fatal in very young children)",
+      "Generally should be avoided in older adults (except for serious allergic reactions) due to confusion, falls, urinary retention, and other anticholinergic risks",
+      "Use caution with glaucoma, enlarged prostate/urinary problems, asthma or COPD, heart disease, and thyroid disorder",
+      "Can affect the results of allergy skin tests"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to diphenhydramine",
+      "Newborn or premature infants",
+      "Use to sedate a child / in children under 2 years without medical advice"
+    ],
+    "dosage_forms": [
+      "Oral tablet",
+      "Chewable tablet",
+      "Oral capsule",
+      "Oral liquid / solution",
+      "Injection (prescription)"
+    ],
+    "available_strengths": [
+      "25 mg",
+      "50 mg",
+      "12.5 mg/5 mL (oral liquid)"
+    ],
+    "usual_adult_dose": "25-50 mg every 4-6 hours as needed for allergy/cold symptoms; do not exceed about 300 mg in 24 hours. As a sleep aid: 50 mg about 30 minutes before bedtime. For motion sickness: take about 30 minutes before travel.",
+    "usual_adult_frequency": "Every 4 to 6 hours as needed for allergy/cold symptoms; once at bedtime when used as a sleep aid",
+    "doses_per_day": null,
+    "meal_relation": "May be taken with or without food. For motion sickness, take about 30 minutes before travel, then with meals and at bedtime as needed.",
+    "administration_instructions": "Take by mouth as directed on the label. Measure liquid with a proper dosing device, not a household spoon. Use only for a short time until symptoms clear. As a sleep aid, take within 30 minutes of bedtime; for motion sickness, take 30 minutes before travel. Do not take other antihistamine-containing products at the same time.",
+    "missed_dose_instructions": "Diphenhydramine is usually taken as needed. If you are on a schedule, take the missed dose when you remember unless it is almost time for the next dose, then skip it. Do not take a double dose.",
+    "storage_instructions": "Store at room temperature in the original, tightly closed container, away from excess heat and moisture (not in the bathroom). Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "CNS depressants (alcohol, opioid pain medicines, sedatives/sleeping pills, benzodiazepines, muscle relaxers, and medicines for anxiety, depression, or seizures)",
+        "severity": "high",
+        "description": "Add to diphenhydramine's sedating and breathing-slowing effects.",
+        "clinical_effect": "Excessive drowsiness, impaired coordination, and in severe cases slowed breathing.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Other antihistamines or anticholinergic medicines (including many cold, allergy, and sleep combination products, tricyclic antidepressants, bladder/Parkinson anticholinergics)",
+        "severity": "moderate",
+        "description": "Add to anticholinergic effects and can lead to too much total antihistamine.",
+        "clinical_effect": "Dry mouth, constipation, urinary retention, blurred vision, and confusion - especially in older adults.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "Increases drowsiness and dizziness; avoid alcohol while taking diphenhydramine."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Glaucoma",
+        "description": "Anticholinergic effects can worsen glaucoma; use with caution."
+      },
+      {
+        "disease_or_condition": "Enlarged prostate / urinary retention",
+        "description": "Can cause or worsen difficulty urinating."
+      },
+      {
+        "disease_or_condition": "Asthma, COPD, or chronic breathing problems",
+        "description": "Can thicken secretions and should be used cautiously."
+      },
+      {
+        "disease_or_condition": "Heart disease / low blood pressure",
+        "description": "Use with caution; rarely affects heart rhythm or blood pressure."
+      },
+      {
+        "disease_or_condition": "Older age",
+        "description": "Older adults are more sensitive to confusion, falls, urinary retention, and other anticholinergic effects; generally avoid except for serious allergic reactions."
+      }
+    ],
+    "monitoring_requirements": [
+      "Degree of sedation and impact on driving/alertness",
+      "In older adults: watch for confusion, falls, and urinary retention",
+      "Reassess if symptoms last more than 7 days or occur with fever, headache, cough, or rash"
+    ],
+    "patient_counseling_points": [
+      "Expect drowsiness; do not drive or operate machinery and avoid alcohol.",
+      "Use only short-term; see a doctor if symptoms last more than 7 days or come with a fever and headache, cough, or rash.",
+      "Do not give to children under 2 and never use it to make a child sleepy.",
+      "Older adults should generally use safer alternatives; ask a doctor or pharmacist.",
+      "Do not combine with other antihistamine-containing cold, allergy, or sleep products.",
+      "For sleep, take about 30 minutes before bed; for motion sickness, 30 minutes before travel."
+    ],
+    "caregiver_notes": "Do not use diphenhydramine to make a child sleepy and never give it to a child under 2 years. Be cautious in older adults, who are sensitive to confusion, falls, urinary retention, and daytime drowsiness - safer alternatives often exist. Avoid combining with other antihistamine-containing products and with alcohol or other sedating medicines, and ensure the person does not drive while drowsy.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "MedlinePlus (NLM)",
+        "url": "https://medlineplus.gov/druginfo/meds/a682539.html"
+      },
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/diphenhydramine.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Apixaban",
+    "generic_name": "apixaban",
+    "drug_class": "Direct oral anticoagulant (factor Xa inhibitor)",
+    "uses": [
+      "Lowers the risk of stroke and blood clots in people with atrial fibrillation not caused by a heart valve problem",
+      "Prevents blood clots (DVT/PE) after hip or knee replacement surgery",
+      "Treats deep vein thrombosis (DVT) and pulmonary embolism (PE) and reduces the risk of them returning"
+    ],
+    "indications": [
+      "Nonvalvular atrial fibrillation (stroke/systemic embolism prevention)",
+      "DVT/PE treatment and secondary prevention",
+      "VTE prophylaxis after hip or knee replacement",
+      "Venous thromboembolism in children (after initial anticoagulation)"
+    ],
+    "common_side_effects": [
+      "Easy bruising",
+      "Minor bleeding (gums, nose)",
+      "Bleeding that takes longer than usual to stop",
+      "In children: headache, vomiting, heavy menstrual bleeding"
+    ],
+    "serious_side_effects": [
+      "Severe or life-threatening bleeding: blood in urine, bloody/tarry stools, coughing up blood, coffee-ground vomit, heavy vaginal bleeding, any bleeding that won't stop",
+      "Spinal or epidural blood clot (with spinal procedures): back pain, leg numbness/weakness, loss of bladder or bowel control - can cause paralysis",
+      "Higher risk of stroke or clot if the medicine is stopped suddenly",
+      "Serious allergic reaction: hives, chest tightness, wheezing, swelling of face/lips/tongue/throat"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Bleeding that will not stop, blood in urine or stool, or coffee-ground vomit",
+        "possible_relation_to_drug": "Apixaban is a blood thinner; bleeding is its main serious risk.",
+        "recommended_action": "Seek emergency medical help immediately."
+      },
+      {
+        "symptom": "Back pain, leg numbness or weakness, or loss of bladder/bowel control after a spinal injection or tap",
+        "possible_relation_to_drug": "May indicate a spinal/epidural blood clot, a rare but serious complication.",
+        "recommended_action": "Get emergency medical help right away."
+      },
+      {
+        "symptom": "Sudden numbness, weakness, confusion, or trouble speaking",
+        "possible_relation_to_drug": "Could be a stroke/clot, more likely if doses are missed or the drug is stopped.",
+        "recommended_action": "Call emergency services immediately; do not stop apixaban on your own."
+      }
+    ],
+    "warnings": [
+      "Increases the risk of serious or fatal bleeding, especially with other blood-affecting medicines",
+      "Do not stop taking it without your doctor's advice - stopping raises the risk of stroke or clots",
+      "Usually stopped 24-48 hours before surgery or dental/medical procedures (longer if kidney problems) - follow your doctor's plan",
+      "Risk of spinal/epidural blood clots with spinal taps or epidurals",
+      "Not for people with mechanical (artificial) heart valves or triple-positive antiphospholipid syndrome",
+      "Tell all doctors and dentists you take apixaban; report any fall or head injury"
+    ],
+    "contraindications": [
+      "Active serious bleeding",
+      "Known hypersensitivity to apixaban",
+      "Mechanical prosthetic heart valve",
+      "Antiphospholipid syndrome (especially triple-antibody positive)"
+    ],
+    "dosage_forms": [
+      "Oral tablet",
+      "Tablet/sprinkle for oral suspension"
+    ],
+    "available_strengths": [
+      "2.5 mg",
+      "5 mg"
+    ],
+    "usual_adult_dose": "Atrial fibrillation: 5 mg twice daily (2.5 mg twice daily if at least two of: age 80+, weight 60 kg or less, creatinine 1.5 mg/dL or higher). DVT/PE treatment: 10 mg twice daily for 7 days, then 5 mg twice daily; 2.5 mg twice daily for long-term recurrence prevention. Hip/knee replacement prophylaxis: 2.5 mg twice daily.",
+    "usual_adult_frequency": "Twice daily",
+    "doses_per_day": 2,
+    "meal_relation": "May be taken with or without food",
+    "administration_instructions": "Take by mouth twice daily as prescribed. If you cannot swallow tablets, 2.5 mg and 5 mg tablets may be crushed and mixed in water, D5W, apple juice, or applesauce and taken promptly. Do not run out or stop without medical advice, and report any falls or injuries (especially head injuries).",
+    "missed_dose_instructions": "Take the missed dose as soon as you remember on the same day, then return to the twice-daily schedule. Do not take two doses at once to make up for a missed dose.",
+    "storage_instructions": "Store at room temperature, 20-25 C (68-77 F). Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Other anticoagulants/antiplatelets, NSAIDs, aspirin, SSRIs/SNRIs, heparin, warfarin, clopidogrel",
+        "severity": "high",
+        "description": "Add to the bleeding effect.",
+        "clinical_effect": "Significantly increased risk of serious bleeding.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Combined P-glycoprotein and strong CYP3A4 inhibitors (ketoconazole, itraconazole, ritonavir)",
+        "severity": "high",
+        "description": "Raise apixaban blood levels.",
+        "clinical_effect": "Increased bleeding risk; the dose is reduced by half (or the combination avoided at the 2.5 mg dose).",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Strong dual inducers (rifampin, carbamazepine, phenytoin, St. John's wort)",
+        "severity": "moderate",
+        "description": "Lower apixaban blood levels.",
+        "clinical_effect": "Reduced protection against clots.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Grapefruit, pomelos, and Seville (bitter) oranges",
+        "description": "Can raise apixaban levels and bleeding risk; limit them. (Unlike warfarin, apixaban is not affected by vitamin K / leafy greens.)"
+      },
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "Increases the risk of stomach bleeding and falls/injury."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Kidney disease",
+        "description": "Affects dosing and bleeding risk; dose and timing around procedures may change."
+      },
+      {
+        "disease_or_condition": "Liver disease",
+        "description": "Can increase bleeding risk; use with caution."
+      },
+      {
+        "disease_or_condition": "Bleeding disorders or active ulcers",
+        "description": "Higher risk of serious bleeding."
+      },
+      {
+        "disease_or_condition": "Mechanical heart valve / antiphospholipid syndrome",
+        "description": "Apixaban is not effective/appropriate in these conditions."
+      }
+    ],
+    "monitoring_requirements": [
+      "Signs of bleeding or bruising",
+      "Kidney and liver function periodically",
+      "No routine INR monitoring is required (unlike warfarin)"
+    ],
+    "patient_counseling_points": [
+      "Take it twice every day; do not stop without your doctor's advice - stopping raises stroke/clot risk.",
+      "Seek emergency care for bleeding that won't stop, blood in urine/stool, or coughing up blood.",
+      "Tell all providers and dentists you take apixaban before any procedure.",
+      "Avoid grapefruit/pomelo/Seville orange and limit alcohol; you do NOT need to avoid leafy greens.",
+      "Report any fall or head injury promptly.",
+      "Do not run out - refill before your supply ends."
+    ],
+    "caregiver_notes": "Ensure the twice-daily doses are taken and never stopped abruptly, since stopping increases stroke/clot risk. Watch for bleeding (bruising, blood in urine/stool, coughing blood) and treat uncontrolled bleeding as an emergency. Report falls or head injuries, coordinate stopping before procedures with the prescriber, and keep apixaban refilled. No INR testing is needed.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "Drugs.com (Eliquis)",
+        "url": "https://www.drugs.com/eliquis.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Clopidogrel",
+    "generic_name": "clopidogrel",
+    "drug_class": "Antiplatelet agent (P2Y12 platelet inhibitor)",
+    "uses": [
+      "Lowers the risk of stroke, heart attack, and blood clots after a heart attack, acute coronary syndrome, stroke, or with peripheral artery disease",
+      "Helps prevent clots forming on coronary stents (often taken with aspirin)"
+    ],
+    "indications": [
+      "Acute coronary syndrome (unstable angina, NSTEMI, STEMI)",
+      "Recent myocardial infarction",
+      "Recent ischemic stroke",
+      "Established peripheral arterial disease"
+    ],
+    "common_side_effects": [
+      "Easy bruising",
+      "Minor bleeding (nosebleeds, bleeding gums)",
+      "Bleeding that takes longer to stop"
+    ],
+    "serious_side_effects": [
+      "Severe or life-threatening bleeding: blood in urine, black or bloody stools, coughing up blood, coffee-ground vomit, bleeding that won't stop",
+      "Thrombotic thrombocytopenic purpura (TTP) - rare: purple spots, pale skin, jaundice, fever, fast heartbeat, weakness, little urination, confusion or seizures",
+      "Higher risk of heart attack or stroke if stopped suddenly",
+      "Serious allergic reaction (swelling of face/throat, hives, trouble breathing)"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Bleeding that will not stop, blood in urine or stool, or coffee-ground vomit",
+        "possible_relation_to_drug": "Clopidogrel reduces clotting, so bleeding is the main serious risk.",
+        "recommended_action": "Seek emergency medical care."
+      },
+      {
+        "symptom": "Purple spots on skin, pale skin, jaundice, confusion, or very little urination",
+        "possible_relation_to_drug": "May be signs of TTP, a rare but serious blood disorder.",
+        "recommended_action": "Seek urgent medical care."
+      },
+      {
+        "symptom": "Sudden numbness, weakness, vision or speech problems",
+        "possible_relation_to_drug": "Could indicate a clot/stroke, more likely if doses are missed or the drug is stopped.",
+        "recommended_action": "Call emergency services; do not stop clopidogrel on your own."
+      }
+    ],
+    "warnings": [
+      "Increases the risk of serious bleeding, even from minor injuries",
+      "Do not stop without talking to your doctor - stopping raises the risk of heart attack or stroke",
+      "May work less well in people with certain genetic differences in how they process it (CYP2C19)",
+      "Avoid the acid reducers omeprazole and esomeprazole, which can lower its effectiveness",
+      "Tell surgeons/dentists you take clopidogrel; it may be paused before procedures"
+    ],
+    "contraindications": [
+      "Active bleeding (e.g., stomach ulcer or bleeding in the brain)",
+      "Known hypersensitivity to clopidogrel"
+    ],
+    "dosage_forms": [
+      "Oral tablet"
+    ],
+    "available_strengths": [
+      "75 mg",
+      "300 mg"
+    ],
+    "usual_adult_dose": "Acute coronary syndrome: a 300 mg loading dose, then 75 mg once daily (usually with aspirin 75-325 mg daily). Recent MI, recent stroke, or peripheral artery disease: 75 mg once daily.",
+    "usual_adult_frequency": "Once daily",
+    "doses_per_day": 1,
+    "meal_relation": "May be taken with or without food",
+    "administration_instructions": "Take by mouth once daily, with or without food. If your doctor has prescribed aspirin with it, take the aspirin only as directed. Do not stop without medical advice, and tell any healthcare provider treating you that you take clopidogrel.",
+    "missed_dose_instructions": "Take the missed dose as soon as you remember, but skip it if it is almost time for the next dose. Do not take two doses at once.",
+    "storage_instructions": "Store at room temperature away from moisture and heat. Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Omeprazole and esomeprazole",
+        "severity": "high",
+        "description": "These reduce the enzyme (CYP2C19) activation of clopidogrel into its active form.",
+        "clinical_effect": "Reduced antiplatelet effect; an alternative such as pantoprazole or famotidine is preferred if an acid reducer is needed.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Anticoagulants (warfarin, heparin) and other antiplatelets",
+        "severity": "high",
+        "description": "Add to the bleeding effect.",
+        "clinical_effect": "Significantly increased risk of serious bleeding.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "NSAIDs and aspirin (ibuprofen, naproxen, and others)",
+        "severity": "moderate",
+        "description": "Add to bleeding risk and stomach irritation.",
+        "clinical_effect": "Increased risk of stomach and other bleeding.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "SSRIs/SNRIs (antidepressants such as fluoxetine, sertraline, citalopram, duloxetine, venlafaxine)",
+        "severity": "moderate",
+        "description": "Increase bleeding tendency.",
+        "clinical_effect": "Easier bruising and increased bleeding risk.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "Increases the risk of stomach bleeding."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Active ulcer or bleeding disorder",
+        "description": "Higher risk of serious bleeding; clopidogrel may be unsuitable."
+      },
+      {
+        "disease_or_condition": "Liver disease",
+        "description": "Can affect activation and bleeding risk."
+      },
+      {
+        "disease_or_condition": "Kidney disease",
+        "description": "Use with caution and monitoring."
+      },
+      {
+        "disease_or_condition": "CYP2C19 poor-metabolizer status",
+        "description": "Clopidogrel may be less effective; an alternative antiplatelet may be considered."
+      }
+    ],
+    "monitoring_requirements": [
+      "Signs of bleeding or bruising",
+      "Blood counts if TTP or anemia is suspected",
+      "Genetic (CYP2C19) testing in selected patients"
+    ],
+    "patient_counseling_points": [
+      "Do not stop without your doctor's advice - stopping raises heart attack/stroke risk.",
+      "Seek care for bleeding that won't stop, blood in urine/stool, or coughing up blood.",
+      "Avoid omeprazole/esomeprazole; ask about pantoprazole or famotidine if you need an acid reducer.",
+      "Tell surgeons and dentists you take clopidogrel before any procedure.",
+      "Take aspirin with it only if your doctor tells you to.",
+      "Limit alcohol to reduce stomach-bleeding risk."
+    ],
+    "caregiver_notes": "Ensure once-daily dosing and never stop abruptly, since stopping raises heart attack/stroke risk. Watch for bleeding (bruising, blood in urine/stool, coughing blood) and rare TTP signs (purple spots, pale skin, confusion). Avoid omeprazole/esomeprazole and over-the-counter NSAIDs unless approved, and coordinate any pause before procedures with the prescriber.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "Drugs.com (Plavix)",
+        "url": "https://www.drugs.com/plavix.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Furosemide",
+    "generic_name": "furosemide (frusemide)",
+    "drug_class": "Loop diuretic",
+    "uses": [
+      "Treatment of fluid retention (edema) in heart failure, liver disease, or kidney disorders (including nephrotic syndrome)",
+      "Treatment of high blood pressure (hypertension)",
+      "Rapid treatment of acute pulmonary edema (by injection)"
+    ],
+    "indications": [
+      "Edema (fluid overload)",
+      "Hypertension",
+      "Acute pulmonary edema"
+    ],
+    "common_side_effects": [
+      "Increased urination",
+      "Dizziness or lightheadedness",
+      "Diarrhea or constipation",
+      "Loss of appetite",
+      "Numbness or tingling",
+      "Headache",
+      "Blurred vision"
+    ],
+    "serious_side_effects": [
+      "Dehydration and electrolyte imbalance: muscle cramps, weakness, irregular heartbeat, severe thirst, confusion",
+      "Ringing in the ears or hearing loss (can be permanent with high or rapid IV doses)",
+      "Severe low blood pressure or fainting",
+      "Kidney problems; signs of liver or pancreas problems (severe stomach pain, jaundice)",
+      "High blood sugar; low potassium/magnesium",
+      "Serious allergic or skin reaction; easy bruising or unusual bleeding"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Ringing in the ears or hearing changes",
+        "possible_relation_to_drug": "Furosemide can affect hearing, especially at high doses or rapid IV administration.",
+        "recommended_action": "Contact your doctor promptly; this can sometimes be permanent."
+      },
+      {
+        "symptom": "Muscle cramps, weakness, or irregular heartbeat",
+        "possible_relation_to_drug": "May indicate low potassium, sodium, or magnesium from the strong diuretic effect.",
+        "recommended_action": "Contact your doctor; electrolytes may need checking and replacing."
+      },
+      {
+        "symptom": "Severe dizziness, fainting, very dry mouth, or little urination",
+        "possible_relation_to_drug": "Signs of dehydration or very low blood pressure.",
+        "recommended_action": "Seek medical care and follow your doctor's fluid advice."
+      }
+    ],
+    "warnings": [
+      "Do not use if you are unable to urinate",
+      "High doses can cause irreversible hearing loss",
+      "Strong diuresis can cause water and electrolyte depletion - careful medical supervision and monitoring are needed",
+      "Tell your doctor about sulfa-drug allergy",
+      "Contrast dye plus furosemide can harm the kidneys",
+      "Increases sun sensitivity - use sun protection; keep taking it for blood pressure even if you feel well"
+    ],
+    "contraindications": [
+      "Inability to urinate (anuria)",
+      "Known hypersensitivity to furosemide",
+      "Hepatic coma or severe electrolyte depletion until corrected"
+    ],
+    "dosage_forms": [
+      "Oral tablet",
+      "Oral solution / liquid",
+      "Injection (IV/IM)",
+      "Subcutaneous infusion (on-body infusor)"
+    ],
+    "available_strengths": [
+      "20 mg",
+      "40 mg",
+      "80 mg",
+      "10 mg/mL and 40 mg/5 mL (oral liquid)"
+    ],
+    "usual_adult_dose": "Edema: 20-80 mg by mouth once, repeated or increased by 20-40 mg every 6-8 hours until the desired effect, then the effective dose once or twice daily. Hypertension: about 40 mg twice daily. Acute pulmonary edema: 40 mg IV (may repeat).",
+    "usual_adult_frequency": "Once or twice daily for most oral uses; often taken earlier in the day to avoid nighttime urination",
+    "doses_per_day": null,
+    "meal_relation": "May be taken with or without food; take earlier in the day to limit nighttime urination",
+    "administration_instructions": "Take by mouth as prescribed, measuring liquid with a proper device. Do not take more than prescribed (high doses risk hearing loss). Follow your doctor's advice about fluids and potassium. If you also take sucralfate, separate it from furosemide by at least 2 hours. Use sun protection.",
+    "missed_dose_instructions": "If on a regular schedule, take the missed dose when you remember, but skip it if it is almost time for the next dose. Do not take two doses at once.",
+    "storage_instructions": "Store at room temperature away from light, moisture, and heat (oral solution may need refrigeration per the label). Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Lithium",
+        "severity": "high",
+        "description": "Furosemide reduces lithium clearance, raising its levels.",
+        "clinical_effect": "Increased risk of lithium toxicity.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Ototoxic/nephrotoxic drugs (aminoglycoside antibiotics, cisplatin)",
+        "severity": "high",
+        "description": "Additive damage to hearing and kidneys.",
+        "clinical_effect": "Increased risk of hearing loss and kidney injury.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "NSAIDs (ibuprofen, naproxen, aspirin, and others)",
+        "severity": "moderate",
+        "description": "NSAIDs blunt the diuretic effect and stress the kidneys.",
+        "clinical_effect": "Reduced effectiveness and risk of kidney injury.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Sucralfate",
+        "severity": "moderate",
+        "description": "Sucralfate reduces furosemide absorption if taken together.",
+        "clinical_effect": "Reduced furosemide effect; separate doses by at least 2 hours.",
+        "recommended_gap_hours": 2
+      },
+      {
+        "interacting_drug": "Other blood-pressure medicines",
+        "severity": "moderate",
+        "description": "Additive blood-pressure lowering.",
+        "clinical_effect": "Increased risk of low blood pressure and dizziness.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "Can increase dizziness and the blood-pressure-lowering effect."
+      },
+      {
+        "food_or_beverage": "Potassium / salt (diet)",
+        "description": "Furosemide lowers potassium and sodium; follow your doctor's advice on potassium-rich foods or supplements and salt intake."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Kidney disease",
+        "description": "Dose and response vary; monitor kidney function and electrolytes."
+      },
+      {
+        "disease_or_condition": "Liver cirrhosis",
+        "description": "Electrolyte shifts can precipitate hepatic coma; use with caution."
+      },
+      {
+        "disease_or_condition": "Gout",
+        "description": "Raises uric acid and can trigger gout."
+      },
+      {
+        "disease_or_condition": "Diabetes",
+        "description": "Can raise blood sugar."
+      },
+      {
+        "disease_or_condition": "Enlarged prostate / urinary obstruction",
+        "description": "Increased urine output can worsen urinary retention symptoms."
+      }
+    ],
+    "monitoring_requirements": [
+      "Electrolytes (potassium, sodium, magnesium)",
+      "Kidney function",
+      "Blood pressure, weight, and fluid status",
+      "Blood glucose and uric acid",
+      "Hearing if high doses are used"
+    ],
+    "patient_counseling_points": [
+      "Take earlier in the day to avoid being up at night to urinate.",
+      "Report ringing in the ears or hearing changes, muscle cramps, or severe dizziness.",
+      "Follow your doctor's fluid and potassium advice; do not over- or under-drink.",
+      "Use sun protection; the drug increases sun sensitivity.",
+      "Separate sucralfate from furosemide by at least 2 hours.",
+      "Keep taking it for blood pressure even if you feel well."
+    ],
+    "caregiver_notes": "Give earlier in the day, track weight and swelling, and watch for dehydration (dizziness, dry mouth, little urination) and low potassium (cramps, weakness, irregular heartbeat). Report any hearing changes immediately. Keep lab appointments for electrolytes and kidney function, follow the doctor's fluid plan, and do not increase the dose to 'work better' - higher doses risk hearing loss.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/furosemide.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Hydrochlorothiazide",
+    "generic_name": "hydrochlorothiazide (HCTZ)",
+    "drug_class": "Thiazide diuretic",
+    "uses": [
+      "Treatment of high blood pressure (hypertension)",
+      "Treatment of fluid retention (edema) in heart failure, liver cirrhosis, kidney disorders, or caused by steroids/estrogen"
+    ],
+    "indications": [
+      "Hypertension",
+      "Edema (fluid retention)",
+      "Off-label: nephrocalcinosis, nephrogenic diabetes insipidus"
+    ],
+    "common_side_effects": [
+      "Increased urination",
+      "Dizziness or lightheadedness",
+      "Weakness",
+      "Low potassium or sodium (electrolyte imbalance)",
+      "Increased blood sugar",
+      "Increased uric acid (gout flares)"
+    ],
+    "serious_side_effects": [
+      "Severe allergic reaction or severe skin reaction (blistering/peeling rash)",
+      "Electrolyte imbalance: muscle cramps, weakness, irregular heartbeat, confusion, severe thirst",
+      "Dehydration with very low blood pressure",
+      "Eye pain or sudden vision problems (rare acute angle-closure glaucoma)",
+      "Pancreatitis: severe upper stomach pain spreading to the back with nausea/vomiting",
+      "Kidney problems; jaundice; easy bruising or unusual bleeding",
+      "Increased risk of skin cancer with long-term use"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Muscle cramps, weakness, or irregular heartbeat",
+        "possible_relation_to_drug": "May indicate low potassium, sodium, or magnesium from the diuretic effect.",
+        "recommended_action": "Contact your doctor; blood electrolytes may need checking and potassium may need replacing."
+      },
+      {
+        "symptom": "Dizziness or lightheadedness on standing",
+        "possible_relation_to_drug": "May reflect low blood pressure or dehydration, especially in hot weather or with illness.",
+        "recommended_action": "Rise slowly and maintain advised fluid intake; contact a healthcare professional if you faint."
+      },
+      {
+        "symptom": "Sudden eye pain or vision changes",
+        "possible_relation_to_drug": "Rarely, hydrochlorothiazide can trigger acute glaucoma.",
+        "recommended_action": "Seek prompt medical care."
+      }
+    ],
+    "warnings": [
+      "Do not use if you are unable to urinate",
+      "Tell your doctor about sulfa-drug allergy",
+      "Can cause dehydration and electrolyte imbalance - report vomiting, diarrhea, or heavy sweating",
+      "May increase blood sugar (diabetes) and uric acid (gout)",
+      "Increases sun sensitivity and the risk of skin cancer - use sun protection and have skin checks",
+      "Keep taking it for blood pressure even if you feel well"
+    ],
+    "contraindications": [
+      "Inability to urinate (anuria)",
+      "Known hypersensitivity to hydrochlorothiazide or sulfonamide (sulfa) drugs"
+    ],
+    "dosage_forms": [
+      "Oral tablet",
+      "Oral capsule"
+    ],
+    "available_strengths": [
+      "12.5 mg",
+      "25 mg",
+      "50 mg"
+    ],
+    "usual_adult_dose": "Hypertension: 25 mg once daily, may increase to 50 mg/day (single or divided). Edema: 25-100 mg once or twice daily, sometimes on an intermittent schedule.",
+    "usual_adult_frequency": "Once daily (sometimes twice daily); often taken in the morning to limit nighttime urination",
+    "doses_per_day": 1,
+    "meal_relation": "May be taken with or without food; taking it earlier in the day helps avoid nighttime urination",
+    "administration_instructions": "Take by mouth as prescribed, ideally in the morning. Measure liquid forms with a proper device. Stay on the fluid plan your doctor advises, use sun protection, and keep taking it for blood pressure even when feeling well; do not stop without medical advice.",
+    "missed_dose_instructions": "Take the missed dose when you remember, but skip it if it is almost time for the next dose. Do not take two doses at once.",
+    "storage_instructions": "Store at room temperature, tightly closed, away from moisture, heat, and freezing. Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Lithium",
+        "severity": "high",
+        "description": "Thiazides reduce lithium clearance, raising its blood levels.",
+        "clinical_effect": "Increased risk of lithium toxicity.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "NSAIDs (ibuprofen, naproxen, aspirin, and others)",
+        "severity": "moderate",
+        "description": "NSAIDs can blunt the diuretic/blood-pressure effect and stress the kidneys.",
+        "clinical_effect": "Reduced effectiveness and risk of kidney injury.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Other blood-pressure medicines",
+        "severity": "moderate",
+        "description": "Additive blood-pressure lowering.",
+        "clinical_effect": "Increased risk of low blood pressure and dizziness.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Corticosteroids and other potassium-lowering drugs",
+        "severity": "moderate",
+        "description": "Add to potassium loss.",
+        "clinical_effect": "Greater risk of low potassium.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Insulin and oral diabetes medicines",
+        "severity": "moderate",
+        "description": "Hydrochlorothiazide can raise blood sugar.",
+        "clinical_effect": "Reduced blood-sugar control; diabetes treatment may need adjustment.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "Can increase dizziness and the blood-pressure-lowering effect."
+      },
+      {
+        "food_or_beverage": "Potassium (diet/supplements)",
+        "description": "Because the drug lowers potassium, your doctor may advise potassium-rich foods or supplements - follow their guidance rather than self-treating."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Kidney disease",
+        "description": "May be less effective and can worsen kidney function or electrolytes."
+      },
+      {
+        "disease_or_condition": "Liver disease / cirrhosis",
+        "description": "Electrolyte shifts can precipitate hepatic coma; use with caution."
+      },
+      {
+        "disease_or_condition": "Gout",
+        "description": "Raises uric acid and can trigger gout attacks."
+      },
+      {
+        "disease_or_condition": "Diabetes",
+        "description": "Can raise blood sugar."
+      },
+      {
+        "disease_or_condition": "Lupus",
+        "description": "May activate or worsen lupus."
+      }
+    ],
+    "monitoring_requirements": [
+      "Blood pressure",
+      "Electrolytes (potassium, sodium, magnesium)",
+      "Kidney function",
+      "Blood glucose and uric acid",
+      "Periodic skin checks with long-term use"
+    ],
+    "patient_counseling_points": [
+      "Take it in the morning to reduce nighttime urination.",
+      "Use sunscreen and protective clothing; the drug increases sun sensitivity and skin-cancer risk.",
+      "Report muscle cramps, weakness, or palpitations (possible low potassium).",
+      "Maintain the fluid/diet plan your doctor recommends and avoid heavy alcohol.",
+      "Keep taking it for blood pressure even if you feel well.",
+      "Tell your doctor about any sulfa-drug allergy."
+    ],
+    "caregiver_notes": "Give in the morning, ensure adequate but not excessive fluids per the doctor's plan, and watch for signs of low potassium (cramps, weakness, irregular heartbeat) and dehydration (dizziness, very dry mouth, little urination). Encourage sun protection and keep lab appointments for electrolytes and kidney function. Do not stop suddenly for blood pressure without advice.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/hydrochlorothiazide.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Losartan",
+    "generic_name": "losartan potassium",
+    "drug_class": "Angiotensin II receptor blocker (ARB)",
+    "uses": [
+      "Treatment of high blood pressure (hypertension) in adults and children 6 years and older",
+      "Reduces the risk of stroke in people with hypertension and left ventricular hypertrophy (may be less effective for this in African American patients)",
+      "Treatment of diabetic kidney disease (nephropathy) in people with type 2 diabetes and high blood pressure"
+    ],
+    "indications": [
+      "Hypertension",
+      "Stroke risk reduction in hypertension with left ventricular hypertrophy",
+      "Diabetic nephropathy in type 2 diabetes with hypertension",
+      "Off-label: heart failure"
+    ],
+    "common_side_effects": [
+      "Dizziness",
+      "Tiredness",
+      "Low blood pressure",
+      "Low blood sugar",
+      "Diarrhea",
+      "Back, leg, or knee pain",
+      "Muscle cramps or weakness",
+      "Heartburn",
+      "Cold-like symptoms (stuffy nose, sneezing, sore throat)"
+    ],
+    "serious_side_effects": [
+      "Angioedema: swelling of the face, throat, tongue, lips, eyes, hands, feet, or lower legs; hoarseness; difficulty breathing or swallowing",
+      "High blood potassium (hyperkalemia): nausea, weakness, tingling, chest pain, irregular heartbeat, loss of movement",
+      "Kidney problems: swelling, urinating less, tiredness, shortness of breath",
+      "Rhabdomyolysis (rare): unexplained muscle pain, tenderness, or weakness, especially with fever or dark urine",
+      "Severe low blood pressure or fainting; chest pain"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Swelling of the face, lips, tongue, or throat, or trouble breathing/swallowing",
+        "possible_relation_to_drug": "May indicate angioedema, a serious reaction that can occur with ARBs (less often than with ACE inhibitors).",
+        "recommended_action": "Seek emergency medical care immediately and stop the medication."
+      },
+      {
+        "symptom": "Dizziness or lightheadedness, especially on standing",
+        "possible_relation_to_drug": "May reflect low blood pressure from losartan, more likely at the start, with dehydration, or with diuretics.",
+        "recommended_action": "Rise slowly and stay hydrated; contact a healthcare professional if you faint or it persists. Do not change the dose without advice."
+      },
+      {
+        "symptom": "Unexplained muscle pain, tenderness, or weakness (with dark urine or fever)",
+        "possible_relation_to_drug": "Rarely, losartan can cause muscle breakdown (rhabdomyolysis) leading to kidney problems.",
+        "recommended_action": "Contact your doctor promptly; seek urgent care if severe."
+      }
+    ],
+    "warnings": [
+      "Do not use during pregnancy; it can injure or kill the fetus in the second/third trimester - stop and call your doctor if you become pregnant",
+      "If you have diabetes (or kidney disease), do not use with aliskiren-containing medicines",
+      "Can raise blood potassium; avoid potassium supplements and potassium-containing salt substitutes unless directed",
+      "Dehydration (vomiting, diarrhea, heavy sweating) can cause a large drop in blood pressure or kidney problems",
+      "Keep taking it even if you feel well; full blood-pressure effect may take 3 to 6 weeks"
+    ],
+    "contraindications": [
+      "Pregnancy",
+      "Known hypersensitivity to losartan",
+      "Concomitant use with aliskiren in patients with diabetes"
+    ],
+    "dosage_forms": [
+      "Oral tablet",
+      "Oral suspension (liquid)"
+    ],
+    "available_strengths": [
+      "25 mg",
+      "50 mg",
+      "100 mg",
+      "10 mg/mL (oral suspension)"
+    ],
+    "usual_adult_dose": "Start 50 mg once daily (consider 25 mg if volume-depleted or on a diuretic); maximum 100 mg/day, given once daily or split into twice daily.",
+    "usual_adult_frequency": "Once daily (sometimes twice daily)",
+    "doses_per_day": 1,
+    "meal_relation": "May be taken with or without food; take at the same time each day",
+    "administration_instructions": "Take by mouth once daily (or as prescribed), with or without food, at a consistent time. Measure the oral suspension with a proper dosing device, not a kitchen spoon. Rise slowly to avoid dizziness, stay hydrated, and continue taking even if you feel well; do not stop without medical advice.",
+    "missed_dose_instructions": "Take the missed dose as soon as you remember. If it is almost time for the next dose, skip the missed dose and continue your regular schedule. Do not take a double dose to make up for a missed one.",
+    "storage_instructions": "Store tightly closed at room temperature, away from excess heat, light, and moisture (not in the bathroom). Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "NSAIDs (ibuprofen, naproxen, aspirin, celecoxib, diclofenac, indomethacin, meloxicam, and others)",
+        "severity": "moderate",
+        "description": "NSAIDs can blunt losartan's blood-pressure-lowering effect and, combined with an ARB (especially with a diuretic), can impair kidney function and raise potassium.",
+        "clinical_effect": "Reduced blood pressure control and increased risk of kidney injury and hyperkalemia.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Potassium-sparing diuretics, potassium supplements, or potassium-containing salt substitutes (spironolactone, triamterene, amiloride)",
+        "severity": "high",
+        "description": "Additive potassium retention with an ARB.",
+        "clinical_effect": "Risk of dangerously high blood potassium (hyperkalemia).",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Aliskiren (in patients with diabetes or kidney disease)",
+        "severity": "high",
+        "description": "Dual blockade of the renin-angiotensin system.",
+        "clinical_effect": "Increased risk of kidney impairment, hyperkalemia, and low blood pressure; avoid the combination.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Other blood-pressure-lowering medicines and diuretics",
+        "severity": "moderate",
+        "description": "Additive blood-pressure lowering.",
+        "clinical_effect": "Increased risk of low blood pressure and dizziness, especially when starting.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Potassium-containing salt substitutes and high-potassium supplements/foods",
+        "description": "Can add to losartan's potassium-raising effect; people with kidney problems, heart failure, or on certain diuretics should be cautious and may need potassium monitoring."
+      },
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "May add to the blood-pressure-lowering effect and increase dizziness; use only in moderation."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Kidney disease",
+        "description": "Requires monitoring; losartan can worsen kidney function, especially with dehydration or NSAIDs, and raise potassium."
+      },
+      {
+        "disease_or_condition": "Heart failure",
+        "description": "Used in some cases but needs monitoring of blood pressure, kidney function, and potassium."
+      },
+      {
+        "disease_or_condition": "Liver disease",
+        "description": "A lower starting dose may be needed."
+      },
+      {
+        "disease_or_condition": "Volume or salt depletion / low blood pressure",
+        "description": "Increased risk of symptomatic low blood pressure; correct before starting."
+      }
+    ],
+    "monitoring_requirements": [
+      "Blood pressure regularly",
+      "Kidney function (serum creatinine) and serum potassium, especially after starting or dose changes",
+      "Signs of dehydration during illness"
+    ],
+    "patient_counseling_points": [
+      "Seek emergency help for swelling of the face, lips, tongue, or throat, or trouble breathing.",
+      "Stand up slowly and stay hydrated to avoid dizziness; report fainting.",
+      "Do not use potassium supplements or salt substitutes unless your doctor approves.",
+      "Keep taking it even if you feel well; the full effect can take 3 to 6 weeks.",
+      "Tell your doctor right away if you become or plan to become pregnant.",
+      "Call your doctor during illness with vomiting, diarrhea, or heavy sweating."
+    ],
+    "caregiver_notes": "Support once-daily dosing at a consistent time, watch for facial/throat swelling (treat as an emergency) and for dizziness/fainting, avoid potassium salt substitutes, and keep blood-pressure and lab (kidney/potassium) appointments. During illness with vomiting or diarrhea, watch for dehydration and low blood pressure. Report any pregnancy immediately and do not change the dose without medical advice.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/losartan.html"
+      },
+      {
+        "source_name": "MedlinePlus (NLM)",
+        "url": "https://medlineplus.gov/druginfo/meds/a695008.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Metoprolol",
+    "generic_name": "metoprolol (tartrate or succinate)",
+    "drug_class": "Cardioselective beta-blocker",
+    "uses": [
+      "Treatment of high blood pressure (hypertension)",
+      "Treatment of angina (chest pain)",
+      "Reduces the risk of death or hospitalization in heart failure",
+      "Given by injection during the early phase of a heart attack to lower the risk of death"
+    ],
+    "indications": [
+      "Hypertension",
+      "Angina pectoris",
+      "Heart failure",
+      "Acute myocardial infarction",
+      "Off-label: atrial fibrillation rate control"
+    ],
+    "common_side_effects": [
+      "Dizziness",
+      "Tiredness",
+      "Slow heartbeat",
+      "Cold hands and feet",
+      "Depression or low mood",
+      "Confusion or memory problems",
+      "Nightmares or trouble sleeping",
+      "Diarrhea",
+      "Mild itching or rash"
+    ],
+    "serious_side_effects": [
+      "Very slow heartbeat or feeling like you might pass out",
+      "Worsening heart failure: shortness of breath, swelling, rapid weight gain",
+      "Bronchospasm (wheezing/trouble breathing), especially in asthma/COPD",
+      "Serious allergic reaction (swelling of face/throat, hives, trouble breathing)",
+      "Masking of low-blood-sugar warning signs in people with diabetes"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Very slow pulse, dizziness, or near-fainting",
+        "possible_relation_to_drug": "May indicate the heart rate is too low from the beta-blocker.",
+        "recommended_action": "Contact your doctor; do not stop the medicine suddenly on your own."
+      },
+      {
+        "symptom": "Increasing shortness of breath, swelling of legs, or sudden weight gain",
+        "possible_relation_to_drug": "Can signal worsening heart failure (fluid build-up).",
+        "recommended_action": "Contact your doctor promptly."
+      },
+      {
+        "symptom": "Fatigue, low mood, or vivid dreams",
+        "possible_relation_to_drug": "Recognized beta-blocker side effects.",
+        "recommended_action": "Discuss with your doctor if bothersome; do not stop abruptly."
+      }
+    ],
+    "warnings": [
+      "Do not stop suddenly - abrupt withdrawal can worsen angina or trigger a heart attack; the dose is lowered gradually",
+      "Avoid in very slow heart rate, certain heart-block/conduction problems, and severe/decompensated heart failure",
+      "Use caution with asthma or COPD (can cause bronchospasm)",
+      "In diabetes, it can mask the warning signs of low blood sugar",
+      "Can mask signs of overactive thyroid; caution with pheochromocytoma",
+      "Take with or just after a meal at the same time each day"
+    ],
+    "contraindications": [
+      "Severe bradycardia (very slow heart rate)",
+      "Second- or third-degree heart block or sick sinus syndrome (without a pacemaker)",
+      "Cardiogenic shock or severe/decompensated heart failure",
+      "Known hypersensitivity to metoprolol or other beta-blockers"
+    ],
+    "dosage_forms": [
+      "Immediate-release tablet (tartrate)",
+      "Extended-release tablet (succinate)",
+      "Extended-release capsule",
+      "Injection"
+    ],
+    "available_strengths": [
+      "25 mg",
+      "50 mg",
+      "100 mg",
+      "200 mg (extended-release)"
+    ],
+    "usual_adult_dose": "Hypertension: immediate-release (tartrate) 100 mg/day in single or divided doses (range 100-450 mg/day); extended-release (succinate) 25-100 mg once daily up to 400 mg/day. Heart failure: succinate start 12.5-25 mg once daily, doubled every ~2 weeks as tolerated.",
+    "usual_adult_frequency": "Immediate-release (tartrate): twice daily. Extended-release (succinate): once daily. Taken with or just after food.",
+    "doses_per_day": null,
+    "meal_relation": "Take with or immediately after a meal, at the same time each day",
+    "administration_instructions": "Take by mouth with or just after food. Swallow extended-release capsules whole (do not crush/chew); a Toprol-XL tablet may be split only if your doctor says so, then swallowed without chewing. Do not stop suddenly - the dose must be reduced gradually under medical guidance.",
+    "missed_dose_instructions": "Skip the missed dose and take the next dose at the regular time. Do not take two doses at once.",
+    "storage_instructions": "Store at room temperature away from moisture and heat. Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Other heart/blood-pressure medicines (especially verapamil, diltiazem, digoxin, clonidine)",
+        "severity": "moderate",
+        "description": "Additive slowing of the heart and lowering of blood pressure; stopping clonidine while on a beta-blocker can cause rebound high blood pressure.",
+        "clinical_effect": "Risk of very slow heart rate, low blood pressure, or rebound hypertension.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Strong CYP2D6-inhibitor antidepressants (fluoxetine, paroxetine, bupropion)",
+        "severity": "moderate",
+        "description": "These raise metoprolol blood levels by blocking its metabolism.",
+        "clinical_effect": "Increased beta-blocker effects (slow heart rate, low blood pressure).",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "MAO inhibitors",
+        "severity": "moderate",
+        "description": "Can affect blood pressure when combined with beta-blockers.",
+        "clinical_effect": "Blood-pressure changes; use with caution.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Epinephrine and ergot medicines",
+        "severity": "moderate",
+        "description": "Beta-blockade can alter the response to epinephrine; ergot drugs add vasoconstriction.",
+        "clinical_effect": "Blood-pressure spikes or reduced circulation to the extremities.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "Can increase dizziness and add to blood-pressure lowering; some extended-release forms release faster with alcohol."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Asthma / COPD",
+        "description": "Can trigger bronchospasm; use cautiously at the lowest effective dose."
+      },
+      {
+        "disease_or_condition": "Diabetes",
+        "description": "Masks the warning signs of low blood sugar."
+      },
+      {
+        "disease_or_condition": "Heart failure / conduction problems",
+        "description": "Can worsen decompensated heart failure or cause excessive slowing of the heart."
+      },
+      {
+        "disease_or_condition": "Thyroid disorder",
+        "description": "Can mask signs of overactive thyroid; abrupt stopping may cause a flare."
+      },
+      {
+        "disease_or_condition": "Peripheral circulation problems (e.g., Raynaud's)",
+        "description": "May worsen cold hands/feet."
+      }
+    ],
+    "monitoring_requirements": [
+      "Heart rate and blood pressure",
+      "Signs of worsening heart failure (weight, swelling, breathlessness)",
+      "Blood sugar awareness in diabetes"
+    ],
+    "patient_counseling_points": [
+      "Never stop suddenly; the dose is tapered to avoid chest pain or a heart attack.",
+      "Take with or right after food at the same time each day.",
+      "Rise slowly to avoid dizziness; report a very slow pulse or fainting.",
+      "If you have diabetes, watch carefully for low blood sugar (the usual warning signs may be hidden).",
+      "Report new breathlessness, swelling, or rapid weight gain.",
+      "Tell surgeons/dentists you take metoprolol."
+    ],
+    "caregiver_notes": "Ensure consistent dosing with food and never stop the medicine abruptly. Watch for a very slow pulse, fainting, or signs of worsening heart failure (swelling, breathlessness, weight gain), and be alert that beta-blockers can hide low-blood-sugar symptoms in people with diabetes. Keep heart-rate/blood-pressure follow-up and do not change the dose without medical advice.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/metoprolol.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Simvastatin",
+    "generic_name": "simvastatin",
+    "drug_class": "HMG-CoA reductase inhibitor (statin)",
+    "uses": [
+      "Lowers 'bad' LDL cholesterol and triglycerides and raises 'good' HDL cholesterol",
+      "Lowers the risk of stroke, heart attack, and other heart complications in people with diabetes, coronary heart disease, or other risk factors"
+    ],
+    "indications": [
+      "High cholesterol (hyperlipidemia)",
+      "Familial hypercholesterolemia (adults and children 10 years and older)",
+      "Cardiovascular risk reduction"
+    ],
+    "common_side_effects": [
+      "Headache",
+      "Constipation",
+      "Nausea",
+      "Stomach pain",
+      "Cold-like symptoms (stuffy nose, sneezing, sore throat)"
+    ],
+    "serious_side_effects": [
+      "Myopathy / rhabdomyolysis: unexplained muscle pain, tenderness, or weakness, especially with fever, unusual tiredness, or dark urine (can lead to kidney failure)",
+      "Muscle weakness in the hips, shoulders, neck, and back; trouble lifting arms or climbing",
+      "Liver problems: nausea, upper-right stomach pain, dark urine, jaundice (yellow skin/eyes)",
+      "Kidney problems: little or no urinating, swelling, tiredness, breathlessness",
+      "Serious allergic or skin reaction (blistering/peeling rash)"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Unexplained muscle pain, tenderness, or weakness (especially with dark urine or fever)",
+        "possible_relation_to_drug": "May indicate statin myopathy or rhabdomyolysis - higher risk at the 80 mg dose, in older adults, with kidney/thyroid problems, or with interacting drugs.",
+        "recommended_action": "Contact your doctor promptly; seek urgent care if severe or with dark urine and fever."
+      },
+      {
+        "symptom": "Yellowing of the skin or eyes, dark urine, or upper-right abdominal pain",
+        "possible_relation_to_drug": "May signal liver injury.",
+        "recommended_action": "Contact a healthcare professional; liver tests may be needed."
+      },
+      {
+        "symptom": "Headache or cold-like symptoms",
+        "possible_relation_to_drug": "Common, usually mild side effects.",
+        "recommended_action": "Usually not serious; discuss with your doctor if persistent."
+      }
+    ],
+    "warnings": [
+      "Can cause muscle breakdown (rhabdomyolysis) leading to kidney failure; risk is higher at 80 mg and with certain other drugs",
+      "Do not use in active liver disease, pregnancy, or while breastfeeding",
+      "Avoid grapefruit and grapefruit juice - they can dangerously raise simvastatin levels",
+      "Many serious drug interactions - do not combine with certain antibiotics, antifungals, HIV/hepatitis C medicines, or Paxlovid without medical guidance",
+      "Drinking more than 2 alcoholic drinks daily increases the risk of liver damage",
+      "Best taken in the evening; keep taking it even if you feel well"
+    ],
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy and breastfeeding",
+      "Known hypersensitivity to simvastatin",
+      "Concomitant use with strong CYP3A4 inhibitors, cyclosporine, danazol, or gemfibrozil"
+    ],
+    "dosage_forms": [
+      "Oral tablet",
+      "Oral suspension (liquid)"
+    ],
+    "available_strengths": [
+      "5 mg",
+      "10 mg",
+      "20 mg",
+      "40 mg",
+      "80 mg"
+    ],
+    "usual_adult_dose": "Usually 10-20 mg once daily in the evening; range 5-40 mg once daily. The 80 mg dose is restricted to people who have already tolerated it long-term because of higher muscle-toxicity risk. Lower limits apply when taken with certain heart medicines (e.g., max 20 mg with amlodipine; max 10 mg with diltiazem/verapamil).",
+    "usual_adult_frequency": "Once daily in the evening (or at bedtime)",
+    "doses_per_day": 1,
+    "meal_relation": "Take in the evening; if taken more than once daily, take with meals. Avoid grapefruit and follow a low-fat, low-cholesterol diet.",
+    "administration_instructions": "Take by mouth once daily in the evening, exactly as prescribed - never more or longer than directed. Continue even if you feel well; do not stop unless your doctor says so. Avoid grapefruit products and limit alcohol, and keep up the recommended diet and exercise.",
+    "missed_dose_instructions": "Take the missed dose as soon as you remember. Skip it if it is almost time for the next dose. Do not take extra to make up a missed dose.",
+    "storage_instructions": "Store at room temperature away from moisture, heat, and light. Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Strong CYP3A4 inhibitors (clarithromycin, erythromycin, itraconazole, ketoconazole, posaconazole, voriconazole, HIV protease inhibitors, cobicistat, hepatitis C protease inhibitors, nefazodone) and cyclosporine, danazol, gemfibrozil",
+        "severity": "high",
+        "description": "Greatly raise simvastatin levels.",
+        "clinical_effect": "High risk of severe muscle toxicity (rhabdomyolysis); these combinations should be avoided.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Certain heart medicines (amlodipine, diltiazem, verapamil, amiodarone, dronedarone, ranolazine)",
+        "severity": "moderate",
+        "description": "Raise simvastatin levels; the simvastatin dose must be capped (e.g., 20 mg with amlodipine/ranolazine; 10 mg with diltiazem/verapamil/dronedarone).",
+        "clinical_effect": "Increased muscle-toxicity risk unless the dose is limited.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Other lipid drugs (fenofibrate, niacin) and lomitapide",
+        "severity": "moderate",
+        "description": "Add to muscle-toxicity risk.",
+        "clinical_effect": "Increased risk of myopathy.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Grapefruit / grapefruit juice",
+        "description": "Markedly raises simvastatin levels and the risk of liver damage and rhabdomyolysis; avoid it."
+      },
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "More than 2 drinks daily increases the risk of liver damage and raises triglycerides."
+      },
+      {
+        "food_or_beverage": "High-fat, high-cholesterol foods",
+        "description": "Reduce the medicine's effectiveness; follow a cholesterol-lowering diet."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Liver disease",
+        "description": "Contraindicated in active liver disease."
+      },
+      {
+        "disease_or_condition": "Kidney disease",
+        "description": "Higher risk of muscle breakdown (rhabdomyolysis)."
+      },
+      {
+        "disease_or_condition": "Hypothyroidism (underactive thyroid)",
+        "description": "Poorly controlled thyroid increases muscle-toxicity risk."
+      },
+      {
+        "disease_or_condition": "Diabetes",
+        "description": "Statins may modestly raise blood sugar; benefits usually outweigh this."
+      }
+    ],
+    "monitoring_requirements": [
+      "Lipid panel (LDL, HDL, triglycerides) periodically",
+      "Liver enzymes at baseline and if symptoms of liver problems occur",
+      "Creatine kinase (CK) if unexplained muscle pain or weakness develops",
+      "Blood glucose in people at risk of diabetes"
+    ],
+    "patient_counseling_points": [
+      "Take it in the evening; cholesterol is made mostly at night.",
+      "Report unexplained muscle pain, tenderness, or weakness - especially with dark urine or fever.",
+      "Avoid grapefruit and limit alcohol.",
+      "Keep taking it even if you feel well; cholesterol usually has no symptoms.",
+      "Stop and call your doctor right away if you become pregnant.",
+      "Tell your doctor about all medicines, since many interact with simvastatin."
+    ],
+    "caregiver_notes": "Give in the evening and watch for muscle pain or weakness (especially with dark urine), reporting it promptly. Avoid grapefruit and excess alcohol, keep lipid and liver lab appointments, and check with the pharmacist before any new medicine because simvastatin has many serious interactions. Do not change the dose without medical advice.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/simvastatin.html"
+      }
+    ]
+  },
+  {
+    "drug_name": "Warfarin",
+    "generic_name": "warfarin sodium",
+    "drug_class": "Anticoagulant (vitamin K antagonist; coumarin)",
+    "uses": [
+      "Treats and prevents harmful blood clots in the veins or arteries",
+      "Reduces the risk of stroke, heart attack, and other clot-related complications"
+    ],
+    "indications": [
+      "Deep vein thrombosis (DVT) and pulmonary embolism (PE) - treatment and prevention",
+      "Stroke prevention in atrial fibrillation",
+      "Mechanical heart valves and certain heart conditions",
+      "Antiphospholipid syndrome and other clotting disorders"
+    ],
+    "common_side_effects": [
+      "Easy bruising",
+      "Minor bleeding (e.g., bleeding gums, nosebleeds)",
+      "Prolonged bleeding from cuts"
+    ],
+    "serious_side_effects": [
+      "Severe or life-threatening bleeding: sudden severe headache, feeling very weak or dizzy, blood in urine, bloody or tarry stools, coughing up blood, vomit like coffee grounds, heavy or abnormal vaginal bleeding",
+      "Bleeding from wounds or injections that will not stop",
+      "Skin necrosis or 'purple toe syndrome': painful skin changes, discoloration, purple toes/fingers (tissue damage)",
+      "Serious allergic reaction (swelling of face/throat, hives, trouble breathing)"
+    ],
+    "symptom_related_information": [
+      {
+        "symptom": "Any bleeding that will not stop, blood in urine or stool, coughing up blood, or a sudden severe headache",
+        "possible_relation_to_drug": "Warfarin's main risk is bleeding, which can be severe or life-threatening.",
+        "recommended_action": "Seek emergency medical help immediately."
+      },
+      {
+        "symptom": "Unusual bruising, bleeding gums, frequent nosebleeds, or heavier-than-usual periods",
+        "possible_relation_to_drug": "May indicate the blood is too thin (INR too high).",
+        "recommended_action": "Contact your doctor promptly; your INR/dose may need checking and adjusting."
+      },
+      {
+        "symptom": "Painful, purple, or discolored toes/fingers or skin changes",
+        "possible_relation_to_drug": "Rare warfarin-related skin necrosis or 'purple toe syndrome'.",
+        "recommended_action": "Seek urgent medical care."
+      }
+    ],
+    "warnings": [
+      "Increases the risk of serious or fatal bleeding - seek emergency help for any bleeding that will not stop",
+      "Requires regular blood tests (INR/prothrombin time) and ongoing medical supervision; take it at the same time every day",
+      "Many medicines, supplements, and foods change its effect - check before starting or stopping anything",
+      "Can cause birth defects; avoid in pregnancy unless your doctor directs, and use effective contraception",
+      "You may need to stop it 5-7 days before surgery or dental work - follow your doctor's instructions",
+      "Avoid alcohol and wear a medical-alert ID stating you take warfarin"
+    ],
+    "contraindications": [
+      "Active bleeding or a bleeding tendency (e.g., bleeding ulcers, low platelets, brain aneurysm/bleed)",
+      "Recent or planned surgery of the brain, spine, or eye; spinal tap or epidural",
+      "Severe uncontrolled high blood pressure",
+      "Pregnancy (except in specific situations directed by a doctor)",
+      "Inability to take it reliably on time or attend INR monitoring"
+    ],
+    "dosage_forms": [
+      "Oral tablet"
+    ],
+    "available_strengths": [
+      "1 mg",
+      "2 mg",
+      "2.5 mg",
+      "3 mg",
+      "4 mg",
+      "5 mg",
+      "6 mg",
+      "7.5 mg",
+      "10 mg"
+    ],
+    "usual_adult_dose": "Individualized to a target INR (commonly 2.0-3.0). Maintenance is typically about 2-10 mg once daily, adjusted based on regular INR results; there is no fixed standard dose.",
+    "usual_adult_frequency": "Once daily, at the same time each day",
+    "doses_per_day": 1,
+    "meal_relation": "May be taken with or without food; keep your intake of vitamin K-rich foods consistent week to week",
+    "administration_instructions": "Take by mouth once daily at the same time. Never take a double dose. Attend all INR blood tests and follow dose changes exactly. Keep your diet's vitamin K consistent, avoid alcohol, prevent injuries (soft toothbrush, careful shaving), and tell every healthcare provider you take warfarin.",
+    "missed_dose_instructions": "Take the missed dose as soon as you remember on the same day. Skip it if it is almost time for the next dose. Do not take extra to make up a missed dose, and tell your doctor about missed doses.",
+    "storage_instructions": "Store at room temperature away from heat, moisture, and light. Keep out of reach of children.",
+    "major_drug_interactions": [
+      {
+        "interacting_drug": "Other blood thinners, antiplatelets, NSAIDs, and aspirin (ibuprofen, naproxen, celecoxib, clopidogrel, heparin)",
+        "severity": "high",
+        "description": "Add to bleeding risk and can irritate the stomach lining.",
+        "clinical_effect": "Markedly increased risk of serious bleeding.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Many antibiotics and antifungals (e.g., metronidazole, fluconazole, ciprofloxacin, trimethoprim-sulfamethoxazole)",
+        "severity": "high",
+        "description": "Can raise warfarin's effect and the INR.",
+        "clinical_effect": "Increased bleeding risk; closer INR monitoring is needed.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Amiodarone and certain other heart/CYP-interacting drugs",
+        "severity": "high",
+        "description": "Increase warfarin levels/effect.",
+        "clinical_effect": "Higher INR and bleeding risk; dose reduction and monitoring needed.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Vitamin K supplements and enzyme inducers (e.g., rifampin, St. John's wort)",
+        "severity": "moderate",
+        "description": "Reduce warfarin's effect.",
+        "clinical_effect": "Lower INR and increased clot risk.",
+        "recommended_gap_hours": null
+      },
+      {
+        "interacting_drug": "Herbal products (ginkgo, garlic, ginseng, cranberry, coenzyme Q10, echinacea, goldenseal)",
+        "severity": "moderate",
+        "description": "Can raise or lower the INR or add to bleeding risk.",
+        "clinical_effect": "Unpredictable changes in anticoagulation.",
+        "recommended_gap_hours": null
+      }
+    ],
+    "drug_food_interactions": [
+      {
+        "food_or_beverage": "Vitamin K-rich foods (leafy green vegetables, liver, some vegetable oils)",
+        "description": "Make warfarin less effective; do not avoid them entirely - keep your weekly intake consistent."
+      },
+      {
+        "food_or_beverage": "Grapefruit, cranberry, pomegranate, and noni juices",
+        "description": "Can increase warfarin's effect and bleeding risk; avoid these juices."
+      },
+      {
+        "food_or_beverage": "Alcohol",
+        "description": "Can change the INR and increase bleeding risk; avoid or strictly limit."
+      }
+    ],
+    "drug_disease_interactions": [
+      {
+        "disease_or_condition": "Bleeding disorders or low platelets",
+        "description": "Greatly increased bleeding risk; warfarin is generally avoided."
+      },
+      {
+        "disease_or_condition": "Liver disease",
+        "description": "Alters clotting and warfarin metabolism; needs careful monitoring."
+      },
+      {
+        "disease_or_condition": "Kidney disease",
+        "description": "Can affect dosing and bleeding risk."
+      },
+      {
+        "disease_or_condition": "Uncontrolled high blood pressure",
+        "description": "Increases the risk of serious bleeding (e.g., brain hemorrhage)."
+      }
+    ],
+    "monitoring_requirements": [
+      "INR / prothrombin time regularly (target usually 2.0-3.0, condition-dependent)",
+      "Signs of bleeding or bruising",
+      "Review of new medicines, supplements, illnesses, and diet changes that affect INR"
+    ],
+    "patient_counseling_points": [
+      "Take it at the same time daily and never double up; keep every INR appointment.",
+      "Seek emergency care for bleeding that won't stop, blood in urine/stool, or coughing up blood.",
+      "Do not start or stop any medicine, supplement, or herbal without checking - many change your INR.",
+      "Keep vitamin K foods (leafy greens) consistent rather than avoiding them; avoid cranberry/grapefruit juice and alcohol.",
+      "Avoid NSAIDs/aspirin for pain unless your doctor approves; use acetaminophen-based options as advised.",
+      "Wear a medical-alert ID and tell all providers (including dentists) you take warfarin."
+    ],
+    "caregiver_notes": "Help ensure the exact dose is taken at the same time daily and that INR blood tests are never missed. Watch closely for bleeding (bruises, blood in urine/stool, coughing blood) and treat uncontrolled bleeding as an emergency. Keep diet's vitamin K consistent, avoid cranberry/grapefruit juice and alcohol, prevent injuries, and check with the pharmacist before any new medicine or supplement. Coordinate stopping warfarin before surgeries/procedures with the prescriber.",
+    "ai_assistant_response_guidelines": {
+      "when_user_reports_symptoms": [
+        "The assistant should identify whether the symptom is a known medication side effect.",
+        "The assistant should mention possible medication-related causes only when supported by sources.",
+        "The assistant should advise contacting a healthcare professional for serious or concerning symptoms."
+      ],
+      "when_user_asks_how_to_take_medication": [
+        "Provide administration instructions.",
+        "Provide number of doses per day when available.",
+        "Include meal timing recommendations when available."
+      ],
+      "when_user_reports_multiple_medications": [
+        "Check possible drug-drug interactions.",
+        "Highlight high-risk combinations.",
+        "Explain interaction risks clearly."
+      ]
+    },
+    "sources": [
+      {
+        "source_name": "Drugs.com",
+        "url": "https://www.drugs.com/warfarin.html"
+      }
+    ]
+  }
+]

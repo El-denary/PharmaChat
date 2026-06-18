@@ -1,0 +1,30 @@
+# Core
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# LangChain / LangGraph
+langchain
+langchain-core
+langchain-groq
+langchain-google-genai
+langchain-huggingface
+langchain-chroma
+langgraph
+langsmith
+
+# Vector DB & Embeddings
+chromadb
+sentence-transformers
+
+# LLM Providers
+groq
+google-generativeai
+
+# Utilities
+python-dotenv
