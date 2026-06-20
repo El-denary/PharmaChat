@@ -191,3 +191,9 @@ def chat(request: ChatRequest, db: Session = Depends(get_db)):
                 db.commit()
 
     return {"response": response}
+
+from fastapi.responses import FileResponse
+
+@app.get("/{full_path:path}")
+def serve_frontend(full_path: str):
+    return FileResponse("frontend/dist/index.html")

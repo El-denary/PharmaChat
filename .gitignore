@@ -1,9 +1,6 @@
 # Environment
 .env
 
-# Vector database
-chroma_db/
-
 # Uploaded images
 uploads/
 
