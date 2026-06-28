@@ -7,7 +7,6 @@ from sqlalchemy.orm import Session
 import base64
 import uuid
 import os
-import shutil
 
 from langchain_core.messages import HumanMessage, AIMessage
 from workflow import Workflow
@@ -41,12 +40,6 @@ class ChatRequest(BaseModel):
 
 
 workflow = Workflow()
-
-
-@app.get("/health")
-def health():
-    return {"status": "ok"}
-
 
 @app.post("/conversation")
 def create_conversation(db: Session = Depends(get_db)):
